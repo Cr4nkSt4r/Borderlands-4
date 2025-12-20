@@ -1,0 +1,8630 @@
+{
+  "author": "Cr4nkSt4r",
+  "github": "https://github.com/Cr4nkSt4r",
+  "repo_url": "https://github.com/Cr4nkSt4r/Borderlands-4/",
+  "file_path": "ncs/index/ncs_index.json",
+  "version": 1,
+  "generatedAtUtc": "2025-12-20T01:36:17.0229045Z",
+  "schema": 1,
+  "fileCount": 572,
+  "files": {
+    "pakchunk0-Windows_0_P-Nexus-Data-achievement0": {
+      "tables": [
+        "achievement"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 5,
+        "uniqueKeys": 10,
+        "uniqueValues": 10,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-aihitreactions0": {
+      "tables": [
+        "aihitreactions"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 6,
+        "uniqueKeys": 46,
+        "uniqueValues": 50,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-aim_assist_parameters0": {
+      "tables": [
+        "aim_assist_parameters"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 7,
+        "uniqueKeys": 30,
+        "uniqueValues": 35,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-ainodefollowsettings0": {
+      "tables": [
+        "ainodefollowsettings"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 8,
+        "uniqueValues": 3,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-ainodeLeadsettings0": {
+      "tables": [
+        "ainodeLeadsettings"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 6,
+        "uniqueValues": 2,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-attribute0": {
+      "tables": [
+        "attribute"
+      ],
+      "stats": {
+        "recordCount": 9,
+        "entryCount": 2089,
+        "uniqueKeys": 2367,
+        "uniqueValues": 3932,
+        "uniqueTypes": 16
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-camera_mode0": {
+      "tables": [
+        "camera_mode"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 37,
+        "uniqueKeys": 178,
+        "uniqueValues": 225,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-camera_shake0": {
+      "tables": [
+        "camera_shake"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 57,
+        "uniqueKeys": 84,
+        "uniqueValues": 187,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-camera_transition0": {
+      "tables": [
+        "camera_transition"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 24,
+        "uniqueValues": 24,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Capital0": {
+      "tables": [
+        "capital"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 5,
+        "uniqueKeys": 20,
+        "uniqueValues": 20,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-challenge0": {
+      "tables": [
+        "challenge"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 367,
+        "uniqueKeys": 501,
+        "uniqueValues": 2205,
+        "uniqueTypes": 16
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-character_info0": {
+      "tables": [
+        "character_info"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 20,
+        "uniqueValues": 51,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-character_sounds0": {
+      "tables": [
+        "character_sounds"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 74,
+        "uniqueKeys": 135,
+        "uniqueValues": 717,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-character_sound_tags0": {
+      "tables": [
+        "character_sound_tags"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 43,
+        "uniqueKeys": 55,
+        "uniqueValues": 57,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-cinematic_mode0": {
+      "tables": [
+        "cinematic_mode"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 5,
+        "uniqueKeys": 28,
+        "uniqueValues": 15,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-coordinated_effect_filter0": {
+      "tables": [
+        "coordinated_effect_filter"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 7,
+        "uniqueKeys": 20,
+        "uniqueValues": 11,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-criteria_preset0": {
+      "tables": [
+        "criteria_preset"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 10,
+        "uniqueKeys": 76,
+        "uniqueValues": 72,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-criterion_preset0": {
+      "tables": [
+        "criterion_preset"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 8,
+        "uniqueKeys": 54,
+        "uniqueValues": 67,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Crosshair0": {
+      "tables": [
+        "crosshair"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 9,
+        "uniqueValues": 6,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-DamageData0": {
+      "tables": [
+        "damagedata"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 197,
+        "uniqueKeys": 398,
+        "uniqueValues": 741,
+        "uniqueTypes": 11
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-DamageSource0": {
+      "tables": [
+        "damagesource"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 111,
+        "uniqueKeys": 135,
+        "uniqueValues": 172,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-DamageType0": {
+      "tables": [
+        "damagetype"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 18,
+        "uniqueKeys": 48,
+        "uniqueValues": 108,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-damage_affinity0": {
+      "tables": [
+        "damage_affinity"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 19,
+        "uniqueValues": 26,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-damage_filter0": {
+      "tables": [
+        "damage_filter"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 9,
+        "uniqueValues": 4,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-damage_modifier0": {
+      "tables": [
+        "damage_modifier"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 117,
+        "uniqueKeys": 190,
+        "uniqueValues": 262,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-DialogEchoPresentation0": {
+      "tables": [
+        "dialogechopresentation"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 179,
+        "uniqueKeys": 186,
+        "uniqueValues": 373,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-DialogEvent0": {
+      "tables": [
+        "dialogevent"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 1000,
+        "uniqueKeys": 511,
+        "uniqueValues": 549,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-DialogNameTag0": {
+      "tables": [
+        "dialognametag"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 580,
+        "uniqueKeys": 306,
+        "uniqueValues": 777,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-DialogParameter0": {
+      "tables": [
+        "dialogparameter"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 40,
+        "uniqueKeys": 47,
+        "uniqueValues": 44,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-DialogQuietTime0": {
+      "tables": [
+        "dialogquiettime"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 10,
+        "uniqueValues": 6,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-DialogStyle0": {
+      "tables": [
+        "dialogstyle"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 12,
+        "uniqueKeys": 30,
+        "uniqueValues": 32,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-echo_location_data0": {
+      "tables": [
+        "echo_location_data"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 36,
+        "uniqueValues": 33,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-effect_collection0": {
+      "tables": [
+        "effect_collection"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 17,
+        "uniqueKeys": 44,
+        "uniqueValues": 78,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-effect_relevance0": {
+      "tables": [
+        "effect_relevance"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 11,
+        "uniqueValues": 10,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Equipment0": {
+      "tables": [
+        "equipment"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 11,
+        "uniqueValues": 19,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-feedback0": {
+      "tables": [
+        "feedback"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 79,
+        "uniqueKeys": 124,
+        "uniqueValues": 381,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-ffyldata0": {
+      "tables": [
+        "ffyldata"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 27,
+        "uniqueValues": 19,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-first_person0": {
+      "tables": [
+        "first_person"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 34,
+        "uniqueValues": 15,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-game_region0": {
+      "tables": [
+        "game_region"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 39,
+        "uniqueKeys": 54,
+        "uniqueValues": 153,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gbxactor0": {
+      "tables": [
+        "gbxactor"
+      ],
+      "stats": {
+        "recordCount": 6,
+        "entryCount": 245,
+        "uniqueKeys": 1231,
+        "uniqueValues": 2075,
+        "uniqueTypes": 45
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-GbxActorPart0": {
+      "tables": [
+        "GbxActorPart"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 786,
+        "uniqueKeys": 886,
+        "uniqueValues": 4831,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gbx_discovery_category_def0": {
+      "tables": [
+        "gbx_discovery_category_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 5,
+        "uniqueKeys": 13,
+        "uniqueValues": 17,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gbx_discovery_discoverer_def0": {
+      "tables": [
+        "gbx_discovery_discoverer_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 8,
+        "uniqueValues": 13,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gbx_discovery_icon_size_def0": {
+      "tables": [
+        "gbx_discovery_icon_size_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 12,
+        "uniqueKeys": 23,
+        "uniqueValues": 24,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gbx_discovery_in_world_indicator_def0": {
+      "tables": [
+        "gbx_discovery_in_world_indicator_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 30,
+        "uniqueKeys": 56,
+        "uniqueValues": 81,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gbx_discovery_location_type_def0": {
+      "tables": [
+        "gbx_discovery_location_type_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 66,
+        "uniqueKeys": 130,
+        "uniqueValues": 247,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gbx_discovery_presentation_def0": {
+      "tables": [
+        "gbx_discovery_presentation_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 155,
+        "uniqueKeys": 196,
+        "uniqueValues": 377,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gbx_discovery_region_map_def0": {
+      "tables": [
+        "gbx_discovery_region_map_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 17,
+        "uniqueValues": 37,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gbx_discovery_viewable_map_behavior_def0": {
+      "tables": [
+        "gbx_discovery_viewable_map_behavior_def"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 3,
+        "uniqueKeys": 44,
+        "uniqueValues": 31,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gbx_discovery_viewable_map_def0": {
+      "tables": [
+        "gbx_discovery_viewable_map_def"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 2,
+        "uniqueKeys": 25,
+        "uniqueValues": 111,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gbx_material_parameter0": {
+      "tables": [
+        "gbx_material_parameter"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 15,
+        "uniqueValues": 18,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gbx_scene_viewer_def0": {
+      "tables": [
+        "gbx_scene_viewer_def"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 2,
+        "uniqueKeys": 62,
+        "uniqueValues": 49,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gbx_stand_in_scene_def0": {
+      "tables": [
+        "gbx_stand_in_scene_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 106,
+        "uniqueValues": 118,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gbx_ue_data_table0": {
+      "tables": [
+        "gbx_ue_data_table"
+      ],
+      "stats": {
+        "recordCount": 10,
+        "entryCount": 108,
+        "uniqueKeys": 450,
+        "uniqueValues": 4106,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Gore0": {
+      "tables": [
+        "gore"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 12,
+        "uniqueValues": 29,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-gore_region0": {
+      "tables": [
+        "gore_region"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 21,
+        "uniqueKeys": 50,
+        "uniqueValues": 260,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-hazard_interaction0": {
+      "tables": [
+        "hazard_interaction"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 12,
+        "uniqueKeys": 22,
+        "uniqueValues": 15,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-hazard_interaction_state0": {
+      "tables": [
+        "hazard_interaction_state"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 12,
+        "uniqueKeys": 32,
+        "uniqueValues": 26,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-HealthType0": {
+      "tables": [
+        "healthtype"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 7,
+        "uniqueKeys": 25,
+        "uniqueValues": 25,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-hit_region0": {
+      "tables": [
+        "hit_region"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 9,
+        "uniqueValues": 3,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-hover_drive0": {
+      "tables": [
+        "hover_drive"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 23,
+        "uniqueValues": 24,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-impact_effect0": {
+      "tables": [
+        "impact_effect"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 222,
+        "uniqueKeys": 302,
+        "uniqueValues": 706,
+        "uniqueTypes": 10
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-impact_effect_collection0": {
+      "tables": [
+        "impact_effect_collection"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 21,
+        "uniqueKeys": 42,
+        "uniqueValues": 126,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-inv0": {
+      "tables": [
+        "inv"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 40,
+        "uniqueKeys": 1009,
+        "uniqueValues": 2228,
+        "uniqueTypes": 30
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-inventory_container0": {
+      "tables": [
+        "inventory_container"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 15,
+        "uniqueValues": 9,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-inv_custom0": {
+      "tables": [
+        "inv_custom"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 69,
+        "uniqueKeys": 86,
+        "uniqueValues": 420,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-inv_name_strategy0": {
+      "tables": [
+        "inv_name_strategy"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 18,
+        "uniqueValues": 395,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-inv_params0": {
+      "tables": [
+        "inv_params"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 26,
+        "uniqueValues": 30,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-inv_stat0": {
+      "tables": [
+        "inv_stat"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 87,
+        "uniqueValues": 139,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-itempool0": {
+      "tables": [
+        "itempool"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 157,
+        "uniqueKeys": 210,
+        "uniqueValues": 721,
+        "uniqueTypes": 9
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-ItemPoolList0": {
+      "tables": [
+        "itempoollist"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 107,
+        "uniqueKeys": 167,
+        "uniqueValues": 392,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-jump_goal0": {
+      "tables": [
+        "jump_goal"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 10,
+        "uniqueValues": 4,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-light_beam0": {
+      "tables": [
+        "light_beam"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 21,
+        "uniqueKeys": 73,
+        "uniqueValues": 80,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-light_projectile0": {
+      "tables": [
+        "light_projectile"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 59,
+        "uniqueKeys": 205,
+        "uniqueValues": 298,
+        "uniqueTypes": 11
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-loadingscreen_data0": {
+      "tables": [
+        "loadingscreen_data"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 14,
+        "uniqueKeys": 26,
+        "uniqueValues": 31,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-loot_config0": {
+      "tables": [
+        "loot_config"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 17,
+        "uniqueKeys": 111,
+        "uniqueValues": 178,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-luck_category0": {
+      "tables": [
+        "luck_category"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 22,
+        "uniqueValues": 25,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Manufacturer0": {
+      "tables": [
+        "manufacturer"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 8,
+        "uniqueKeys": 17,
+        "uniqueValues": 40,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Map0": {
+      "tables": [
+        "RoadConnector",
+        "map"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 16,
+        "uniqueKeys": 17068,
+        "uniqueValues": 99606,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-materialevents0": {
+      "tables": [
+        "materialevents"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 22,
+        "uniqueKeys": 64,
+        "uniqueValues": 194,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Melee0": {
+      "tables": [
+        "melee"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 2,
+        "uniqueKeys": 54,
+        "uniqueValues": 41,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Mission0": {
+      "tables": [
+        "mission",
+        "objective"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 128,
+        "uniqueKeys": 16510,
+        "uniqueValues": 43815,
+        "uniqueTypes": 27
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-NavLink0": {
+      "tables": [
+        "navlink"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 50,
+        "uniqueKeys": 70,
+        "uniqueValues": 129,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-oak_discovery_priority_group_def0": {
+      "tables": [
+        "oak_discovery_priority_group_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 21,
+        "uniqueKeys": 27,
+        "uniqueValues": 42,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-oak_echo_log_category_def0": {
+      "tables": [
+        "oak_echo_log_category_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 11,
+        "uniqueValues": 8,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-oak_echo_log_def0": {
+      "tables": [
+        "oak_echo_log_def"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 30,
+        "uniqueKeys": 42,
+        "uniqueValues": 151,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-oak_ui_news_images_def0": {
+      "tables": [
+        "oak_ui_news_images_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 48,
+        "uniqueValues": 77,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-opportunistic_ambient_audio_config0": {
+      "tables": [
+        "opportunistic_ambient_audio_config"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 164,
+        "uniqueKeys": 186,
+        "uniqueValues": 511,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Perception0": {
+      "tables": [
+        "perception"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 5,
+        "uniqueKeys": 20,
+        "uniqueValues": 14,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-PerchUser0": {
+      "tables": [
+        "PerchUser"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 112,
+        "uniqueValues": 194,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-pingfeedbackdata0": {
+      "tables": [
+        "pingfeedbackdata"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 24,
+        "uniqueValues": 18,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-player_bot0": {
+      "tables": [
+        "player_bot"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 41,
+        "uniqueValues": 53,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-profile_defaults_display_data0": {
+      "tables": [
+        "profile_defaults_display_data"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 15,
+        "uniqueValues": 14,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-progress_graph0": {
+      "tables": [
+        "progress_graph"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 87,
+        "uniqueKeys": 269,
+        "uniqueValues": 1124,
+        "uniqueTypes": 9
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-progress_graph_group0": {
+      "tables": [
+        "progress_graph_group"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 8,
+        "uniqueValues": 3,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-progress_point_pool0": {
+      "tables": [
+        "progress_point_pool"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 3,
+        "uniqueKeys": 11,
+        "uniqueValues": 6,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-puddle_hazard0": {
+      "tables": [
+        "puddle_hazard"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 7,
+        "uniqueKeys": 21,
+        "uniqueValues": 28,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-radial_blur0": {
+      "tables": [
+        "radial_blur"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 9,
+        "uniqueValues": 8,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-radio_script0": {
+      "tables": [
+        "radio_script"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 107,
+        "uniqueKeys": 112,
+        "uniqueValues": 334,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Rarity0": {
+      "tables": [
+        "rarity"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 10,
+        "uniqueKeys": 53,
+        "uniqueValues": 163,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Recoil0": {
+      "tables": [
+        "recoil"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 18,
+        "uniqueValues": 20,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Resident0": {
+      "tables": [
+        "basicdef"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 45,
+        "uniqueValues": 30,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Resource0": {
+      "tables": [
+        "resource"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 62,
+        "uniqueKeys": 72,
+        "uniqueValues": 64,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-ResourcePool0": {
+      "tables": [
+        "resourcepool"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 59,
+        "uniqueKeys": 87,
+        "uniqueValues": 192,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-rewards0": {
+      "tables": [
+        "rewards"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 507,
+        "uniqueKeys": 599,
+        "uniqueValues": 2005,
+        "uniqueTypes": 12
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Rumble0": {
+      "tables": [
+        "rumble"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 58,
+        "uniqueKeys": 79,
+        "uniqueValues": 217,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-se_severity_channel0": {
+      "tables": [
+        "se_severity_channel"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 10,
+        "uniqueValues": 6,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-se_tick_group0": {
+      "tables": [
+        "se_tick_group"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 5,
+        "uniqueValues": 1,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-shot_modifier0": {
+      "tables": [
+        "shot_modifier"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 6,
+        "uniqueKeys": 37,
+        "uniqueValues": 30,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Singularity0": {
+      "tables": [
+        "singularity"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 10,
+        "uniqueKeys": 66,
+        "uniqueValues": 85,
+        "uniqueTypes": 9
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Skill0": {
+      "tables": [
+        "skill"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 397,
+        "uniqueKeys": 765,
+        "uniqueValues": 2463,
+        "uniqueTypes": 16
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-skill_action_exec_query0": {
+      "tables": [
+        "skill_action_exec_query"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 14,
+        "uniqueValues": 9,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-skill_alias0": {
+      "tables": [
+        "skill_alias"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 5,
+        "uniqueKeys": 10,
+        "uniqueValues": 5,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-skill_component_identifier0": {
+      "tables": [
+        "skill_component_identifier"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 7,
+        "uniqueValues": 2,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-skill_condition_ref0": {
+      "tables": [
+        "skill_condition_ref"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 13,
+        "uniqueKeys": 19,
+        "uniqueValues": 13,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-skill_effect0": {
+      "tables": [
+        "skill_effect"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 50,
+        "uniqueKeys": 58,
+        "uniqueValues": 50,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-skill_event0": {
+      "tables": [
+        "skill_event"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 44,
+        "uniqueKeys": 50,
+        "uniqueValues": 44,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-skill_mresource_group0": {
+      "tables": [
+        "skill_mresource_group"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 12,
+        "uniqueKeys": 20,
+        "uniqueValues": 15,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-skill_res_strategy0": {
+      "tables": [
+        "skill_res_strategy"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 11,
+        "uniqueValues": 7,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-skill_state0": {
+      "tables": [
+        "skill_state"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 387,
+        "uniqueKeys": 397,
+        "uniqueValues": 388,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-skill_state_condition0": {
+      "tables": [
+        "skill_state_condition"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 17,
+        "uniqueKeys": 45,
+        "uniqueValues": 69,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-skill_target_list0": {
+      "tables": [
+        "skill_target_list"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 25,
+        "uniqueKeys": 31,
+        "uniqueValues": 25,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-skill_token_stack0": {
+      "tables": [
+        "skill_token_stack"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 137,
+        "uniqueKeys": 163,
+        "uniqueValues": 412,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Sliding0": {
+      "tables": [
+        "sliding"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 24,
+        "uniqueValues": 16,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-spawn_pattern0": {
+      "tables": [
+        "spawn_pattern"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 20,
+        "uniqueValues": 20,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-stamp_layout0": {
+      "tables": [
+        "stamp_layout"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 9,
+        "uniqueValues": 2,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Stance0": {
+      "tables": [
+        "stance"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 156,
+        "uniqueKeys": 205,
+        "uniqueValues": 412,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-station_type0": {
+      "tables": [
+        "station_type"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 21,
+        "uniqueValues": 13,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-status_effect_pushevent0": {
+      "tables": [
+        "status_effect_pushevent"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 6,
+        "uniqueValues": 2,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-taggedanim0": {
+      "tables": [
+        "taggedanim"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 33,
+        "uniqueKeys": 97,
+        "uniqueValues": 179,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-Team0": {
+      "tables": [
+        "team"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 12,
+        "uniqueKeys": 37,
+        "uniqueValues": 21,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-thumbnail_scene0": {
+      "tables": [
+        "thumbnail_scene"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 42,
+        "uniqueValues": 107,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-trait_mission0": {
+      "tables": [
+        "trait_mission"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 9,
+        "uniqueKeys": 30,
+        "uniqueValues": 101,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-trait_pool0": {
+      "tables": [
+        "trait_pool"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 15,
+        "uniqueValues": 36,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-trait_pool_list0": {
+      "tables": [
+        "trait_pool_list"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 13,
+        "uniqueValues": 11,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-UIComponent0": {
+      "tables": [
+        "uicomponent"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 45,
+        "uniqueKeys": 51,
+        "uniqueValues": 124,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-uidialogbox0": {
+      "tables": [
+        "uidialogbox"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 49,
+        "uniqueKeys": 72,
+        "uniqueValues": 260,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-uiname_weightedlist0": {
+      "tables": [
+        "uiname_weightedlist"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 17,
+        "uniqueKeys": 24,
+        "uniqueValues": 544,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-uipage0": {
+      "tables": [
+        "uipage"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 8,
+        "uniqueValues": 5,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-uistate0": {
+      "tables": [
+        "uistate"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 134,
+        "uniqueKeys": 156,
+        "uniqueValues": 306,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-uitooltipdata0": {
+      "tables": [
+        "uitooltipdata"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 63,
+        "uniqueKeys": 94,
+        "uniqueValues": 227,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-uiwidget0": {
+      "tables": [
+        "uiwidget"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 147,
+        "uniqueKeys": 1158,
+        "uniqueValues": 1864,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-uiwidgetclass0": {
+      "tables": [
+        "uiwidgetclass"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 101,
+        "uniqueKeys": 117,
+        "uniqueValues": 278,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-ui_challenge_list0": {
+      "tables": [
+        "ui_challenge_list"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 12,
+        "uniqueValues": 429,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-ui_element_damage_effect0": {
+      "tables": [
+        "ui_element_damage_effect"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 14,
+        "uniqueValues": 17,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-ui_mission_difficulty0": {
+      "tables": [
+        "ui_mission_difficulty"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 5,
+        "uniqueKeys": 10,
+        "uniqueValues": 10,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-ui_mission_reward_tier0": {
+      "tables": [
+        "ui_mission_reward_tier"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 14,
+        "uniqueValues": 17,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-ui_mission_reward_type0": {
+      "tables": [
+        "ui_mission_reward_type"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 20,
+        "uniqueKeys": 30,
+        "uniqueValues": 95,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-ui_stat0": {
+      "tables": [
+        "ui_stat"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 56,
+        "uniqueKeys": 99,
+        "uniqueValues": 240,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-ui_stat_group0": {
+      "tables": [
+        "ui_stat_group"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 11,
+        "uniqueValues": 12,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-usability0": {
+      "tables": [
+        "usability"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 14,
+        "uniqueKeys": 40,
+        "uniqueValues": 64,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-usability_prompt0": {
+      "tables": [
+        "usability_prompt"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 27,
+        "uniqueKeys": 35,
+        "uniqueValues": 55,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-vending_machine0": {
+      "tables": [
+        "vending_machine"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 45,
+        "uniqueValues": 27,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-wise_game_parameters0": {
+      "tables": [
+        "game_parameter",
+        "wise_game_parameters"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 48,
+        "uniqueKeys": 451,
+        "uniqueValues": 2626,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-wwise_auxilary_busses0": {
+      "tables": [
+        "auxilary_bus",
+        "wwise_auxilary_busses"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 59,
+        "uniqueValues": 260,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-wwise_soundbanks0": {
+      "tables": [
+        "soundbank",
+        "wwise_soundbanks"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 2,
+        "uniqueKeys": 35,
+        "uniqueValues": 121,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-wwise_states0": {
+      "tables": [
+        "state",
+        "wwise_states"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 41,
+        "uniqueValues": 146,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-wwise_switches0": {
+      "tables": [
+        "switch",
+        "wwise_switches"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 39,
+        "uniqueKeys": 618,
+        "uniqueValues": 3147,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-wwise_triggers0": {
+      "tables": [
+        "trigger",
+        "wwise_triggers"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 16,
+        "uniqueValues": 18,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_0_P-Nexus-Data-xp_progression0": {
+      "tables": [
+        "xp_progression"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 2,
+        "uniqueKeys": 16,
+        "uniqueValues": 11,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_1_P-Nexus-Data-Resident0": {
+      "tables": [
+        "basicdef"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 45,
+        "uniqueValues": 30,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-achievement0": {
+      "tables": [
+        "achievement"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 18,
+        "uniqueKeys": 24,
+        "uniqueValues": 37,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-attribute0": {
+      "tables": [
+        "attribute"
+      ],
+      "stats": {
+        "recordCount": 9,
+        "entryCount": 2110,
+        "uniqueKeys": 2395,
+        "uniqueValues": 3972,
+        "uniqueTypes": 16
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-audioprovider0": {
+      "tables": [
+        "audioprovider"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 172,
+        "uniqueKeys": 990,
+        "uniqueValues": 2217,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-carryable_object_category0": {
+      "tables": [
+        "carryable_object_category"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 34,
+        "uniqueValues": 22,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-challenge0": {
+      "tables": [
+        "challenge"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 380,
+        "uniqueKeys": 519,
+        "uniqueValues": 2337,
+        "uniqueTypes": 17
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-character_sound_tags0": {
+      "tables": [
+        "character_sound_tags"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 48,
+        "uniqueKeys": 60,
+        "uniqueValues": 64,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-cinematic_mode0": {
+      "tables": [
+        "cinematic_mode"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 5,
+        "uniqueKeys": 31,
+        "uniqueValues": 15,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-criteria_preset0": {
+      "tables": [
+        "criteria_preset"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 11,
+        "uniqueKeys": 86,
+        "uniqueValues": 78,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-DamageData0": {
+      "tables": [
+        "damagedata"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 197,
+        "uniqueKeys": 399,
+        "uniqueValues": 742,
+        "uniqueTypes": 11
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-DamageSource0": {
+      "tables": [
+        "damagesource"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 112,
+        "uniqueKeys": 136,
+        "uniqueValues": 173,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-DialogEvent0": {
+      "tables": [
+        "dialogevent"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 972,
+        "uniqueKeys": 497,
+        "uniqueValues": 535,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-gbxactor0": {
+      "tables": [
+        "gbxactor"
+      ],
+      "stats": {
+        "recordCount": 6,
+        "entryCount": 274,
+        "uniqueKeys": 1262,
+        "uniqueValues": 2140,
+        "uniqueTypes": 46
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-gbx_discovery_location_type_def0": {
+      "tables": [
+        "gbx_discovery_location_type_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 66,
+        "uniqueKeys": 131,
+        "uniqueValues": 247,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-gbx_discovery_presentation_def0": {
+      "tables": [
+        "gbx_discovery_presentation_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 155,
+        "uniqueKeys": 197,
+        "uniqueValues": 378,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-gbx_ue_data_table0": {
+      "tables": [
+        "gbx_ue_data_table"
+      ],
+      "stats": {
+        "recordCount": 11,
+        "entryCount": 109,
+        "uniqueKeys": 443,
+        "uniqueValues": 4097,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-impact_effect0": {
+      "tables": [
+        "impact_effect"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 224,
+        "uniqueKeys": 304,
+        "uniqueValues": 710,
+        "uniqueTypes": 10
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-inv0": {
+      "tables": [
+        "inv"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 40,
+        "uniqueKeys": 1009,
+        "uniqueValues": 2231,
+        "uniqueTypes": 30
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-inv_stat0": {
+      "tables": [
+        "inv_stat"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 87,
+        "uniqueValues": 139,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-ItemPoolList0": {
+      "tables": [
+        "itempoollist"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 107,
+        "uniqueKeys": 167,
+        "uniqueValues": 393,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-Manufacturer0": {
+      "tables": [
+        "manufacturer"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 8,
+        "uniqueKeys": 17,
+        "uniqueValues": 40,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-Map0": {
+      "tables": [
+        "RoadConnector",
+        "map"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 16,
+        "uniqueKeys": 17074,
+        "uniqueValues": 99680,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-Mission0": {
+      "tables": [
+        "choice_option",
+        "mission"
+      ],
+      "stats": {
+        "recordCount": 6,
+        "entryCount": 172,
+        "uniqueKeys": 16660,
+        "uniqueValues": 44798,
+        "uniqueTypes": 27
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-profile_defaults_display_data0": {
+      "tables": [
+        "profile_defaults_display_data"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 15,
+        "uniqueValues": 14,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-Rarity0": {
+      "tables": [
+        "rarity"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 10,
+        "uniqueKeys": 54,
+        "uniqueValues": 163,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-Resident0": {
+      "tables": [
+        "basicdef"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 45,
+        "uniqueValues": 30,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-rewards0": {
+      "tables": [
+        "rewards"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 511,
+        "uniqueKeys": 604,
+        "uniqueValues": 2020,
+        "uniqueTypes": 13
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-shot_modifier0": {
+      "tables": [
+        "shot_modifier"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 7,
+        "uniqueKeys": 39,
+        "uniqueValues": 34,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-uiwidget0": {
+      "tables": [
+        "uiwidget"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 147,
+        "uniqueKeys": 1162,
+        "uniqueValues": 1866,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-ui_challenge_list0": {
+      "tables": [
+        "ui_challenge_list"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 12,
+        "uniqueValues": 442,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk0-Windows_2_P-Nexus-Data-ui_mission_reward_type0": {
+      "tables": [
+        "ui_mission_reward_type"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 20,
+        "uniqueKeys": 30,
+        "uniqueValues": 95,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk1-Windows_0_P-Nexus-Data-gbxactor1": {
+      "tables": [
+        "gbxactor"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 10,
+        "uniqueValues": 7,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk1-Windows_0_P-Nexus-Data-TimeOfDayCycle1": {
+      "tables": [
+        "timeofdaycycle"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 48,
+        "uniqueValues": 1282,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk1-Windows_2_P-Nexus-Data-TimeOfDayCycle1": {
+      "tables": [
+        "timeofdaycycle"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 48,
+        "uniqueValues": 1293,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-achievement4": {
+      "tables": [
+        "achievement"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 31,
+        "uniqueKeys": 37,
+        "uniqueValues": 63,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-aihitreactions4": {
+      "tables": [
+        "aihitreactions"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 11,
+        "uniqueKeys": 40,
+        "uniqueValues": 78,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-aim_assist_parameters4": {
+      "tables": [
+        "aim_assist_parameters"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 13,
+        "uniqueValues": 9,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-ainodeLeadsettings4": {
+      "tables": [
+        "ainodeLeadsettings"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 14,
+        "uniqueValues": 10,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-animupdaterateparams4": {
+      "tables": [
+        "animupdaterateparams"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 8,
+        "uniqueValues": 6,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-attribute4": {
+      "tables": [
+        "attribute"
+      ],
+      "stats": {
+        "recordCount": 8,
+        "entryCount": 2367,
+        "uniqueKeys": 2566,
+        "uniqueValues": 4689,
+        "uniqueTypes": 14
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-audioprovider4": {
+      "tables": [
+        "audioprovider"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 130,
+        "uniqueKeys": 554,
+        "uniqueValues": 1413,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-camera_shake4": {
+      "tables": [
+        "camera_shake"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 21,
+        "uniqueKeys": 50,
+        "uniqueValues": 109,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Carry4": {
+      "tables": [
+        "Carry"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 21,
+        "uniqueValues": 13,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-carryable_object_category4": {
+      "tables": [
+        "carryable_object_category"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 34,
+        "uniqueValues": 22,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-challenge4": {
+      "tables": [
+        "challenge"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 494,
+        "uniqueKeys": 550,
+        "uniqueValues": 2180,
+        "uniqueTypes": 11
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-challenge_list4": {
+      "tables": [
+        "challenge_list"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 60,
+        "uniqueKeys": 68,
+        "uniqueValues": 954,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-character_movement4": {
+      "tables": [
+        "character_movement"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 5,
+        "uniqueKeys": 108,
+        "uniqueValues": 81,
+        "uniqueTypes": 15
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-character_sound_tags4": {
+      "tables": [
+        "character_sound_tags"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 46,
+        "uniqueKeys": 57,
+        "uniqueValues": 59,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-cinematic_mode4": {
+      "tables": [
+        "cinematic_mode"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 33,
+        "uniqueValues": 18,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-cinematic_player_anims4": {
+      "tables": [
+        "cinematic_player_anims"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 12,
+        "uniqueKeys": 19,
+        "uniqueValues": 31,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-climbable_interact4": {
+      "tables": [
+        "climbable_interact"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 41,
+        "uniqueValues": 56,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-closed_caption4": {
+      "tables": [
+        "closed_caption"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 8,
+        "uniqueValues": 4,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-CorpseArchetype4": {
+      "tables": [
+        "CorpseArchetype"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 9,
+        "uniqueValues": 33,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-criteria_preset4": {
+      "tables": [
+        "criteria_preset"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 15,
+        "uniqueKeys": 90,
+        "uniqueValues": 73,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-criterion_preset4": {
+      "tables": [
+        "criterion_preset"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 20,
+        "uniqueValues": 9,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Crosshair4": {
+      "tables": [
+        "crosshair"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 15,
+        "uniqueKeys": 22,
+        "uniqueValues": 20,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-DamageData4": {
+      "tables": [
+        "damagedata"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 133,
+        "uniqueKeys": 288,
+        "uniqueValues": 426,
+        "uniqueTypes": 12
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-DamageSource4": {
+      "tables": [
+        "damagesource"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 11,
+        "uniqueKeys": 23,
+        "uniqueValues": 25,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-DamageType4": {
+      "tables": [
+        "damagetype"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 17,
+        "uniqueValues": 9,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-damage_modifier4": {
+      "tables": [
+        "damage_modifier"
+      ],
+      "stats": {
+        "recordCount": 6,
+        "entryCount": 39,
+        "uniqueKeys": 91,
+        "uniqueValues": 127,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Dash4": {
+      "tables": [
+        "dash"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 14,
+        "uniqueValues": 8,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-DialogEvent4": {
+      "tables": [
+        "dialogevent"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 38,
+        "uniqueKeys": 27,
+        "uniqueValues": 30,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-DialogNameTag4": {
+      "tables": [
+        "dialognametag"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 266,
+        "uniqueKeys": 152,
+        "uniqueValues": 274,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-dialogscript4": {
+      "tables": [
+        "dialoglineslot",
+        "dialogscript"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 32,
+        "uniqueKeys": 1666,
+        "uniqueValues": 6186,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-DialogStyle4": {
+      "tables": [
+        "dialogstyle"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 21,
+        "uniqueValues": 13,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-display_data4": {
+      "tables": [
+        "display_data"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 402,
+        "uniqueKeys": 427,
+        "uniqueValues": 1098,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-DLCDef4": {
+      "tables": [
+        "DLCDef"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 18,
+        "uniqueValues": 38,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-effect_collection4": {
+      "tables": [
+        "effect_collection"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 146,
+        "uniqueKeys": 176,
+        "uniqueValues": 413,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-feedback4": {
+      "tables": [
+        "feedback"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 54,
+        "uniqueKeys": 97,
+        "uniqueValues": 344,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-firing_pattern4": {
+      "tables": [
+        "firing_pattern"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 32,
+        "uniqueKeys": 62,
+        "uniqueValues": 294,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Firmware4": {
+      "tables": [
+        "firmware"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 21,
+        "uniqueKeys": 78,
+        "uniqueValues": 257,
+        "uniqueTypes": 9
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-gbxactor4": {
+      "tables": [
+        "gbxactor"
+      ],
+      "stats": {
+        "recordCount": 6,
+        "entryCount": 427,
+        "uniqueKeys": 1174,
+        "uniqueValues": 2346,
+        "uniqueTypes": 51
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-gbxmusic4": {
+      "tables": [
+        "gbxmusic"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 3,
+        "uniqueKeys": 61,
+        "uniqueValues": 59,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-gbxsymphonicambientaudio4": {
+      "tables": [
+        "gbxsymphonicambientaudio"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 10,
+        "uniqueValues": 5,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-gbx_discovery_category_def4": {
+      "tables": [
+        "gbx_discovery_category_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 9,
+        "uniqueValues": 5,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-gbx_discovery_location_meta_data4": {
+      "tables": [
+        "gbx_discovery_location_meta_data"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 936,
+        "uniqueKeys": 994,
+        "uniqueValues": 9657,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-gbx_discovery_location_type_def4": {
+      "tables": [
+        "gbx_discovery_location_type_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 43,
+        "uniqueKeys": 108,
+        "uniqueValues": 221,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-gbx_discovery_presentation_def4": {
+      "tables": [
+        "gbx_discovery_presentation_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 5,
+        "uniqueKeys": 22,
+        "uniqueValues": 23,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-gbx_swimming4": {
+      "tables": [
+        "gbx_swimming"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 7,
+        "uniqueKeys": 43,
+        "uniqueValues": 30,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-gbx_ue_data_table4": {
+      "tables": [
+        "gbx_ue_data_table"
+      ],
+      "stats": {
+        "recordCount": 6,
+        "entryCount": 117,
+        "uniqueKeys": 364,
+        "uniqueValues": 2905,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Gore4": {
+      "tables": [
+        "gore"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 13,
+        "uniqueKeys": 24,
+        "uniqueValues": 84,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-gore_region4": {
+      "tables": [
+        "gore_region"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 52,
+        "uniqueKeys": 84,
+        "uniqueValues": 544,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Grapple4": {
+      "tables": [
+        "grapple"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 48,
+        "uniqueValues": 39,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-ground_slam4": {
+      "tables": [
+        "ground_slam"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 22,
+        "uniqueValues": 18,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-HealthType4": {
+      "tables": [
+        "healthtype"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 13,
+        "uniqueValues": 6,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-hit_region4": {
+      "tables": [
+        "hit_region"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 10,
+        "uniqueKeys": 57,
+        "uniqueValues": 30,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-impact_effect4": {
+      "tables": [
+        "impact_effect"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 149,
+        "uniqueKeys": 223,
+        "uniqueValues": 525,
+        "uniqueTypes": 10
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-impact_effect_collection4": {
+      "tables": [
+        "impact_effect_collection"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 21,
+        "uniqueKeys": 43,
+        "uniqueValues": 122,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-inv4": {
+      "tables": [
+        "inv"
+      ],
+      "stats": {
+        "recordCount": 6,
+        "entryCount": 318,
+        "uniqueKeys": 3406,
+        "uniqueValues": 13490,
+        "uniqueTypes": 45
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-inv_custom4": {
+      "tables": [
+        "inv_custom"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 43,
+        "uniqueKeys": 64,
+        "uniqueValues": 338,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-inv_name_part4": {
+      "tables": [
+        "inv_name_part"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 458,
+        "uniqueKeys": 477,
+        "uniqueValues": 939,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-inv_name_strategy4": {
+      "tables": [
+        "inv_name_strategy"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 17,
+        "uniqueKeys": 69,
+        "uniqueValues": 802,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-inv_params4": {
+      "tables": [
+        "inv_params"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 11,
+        "uniqueValues": 5,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-inv_stat4": {
+      "tables": [
+        "inv_stat"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 23,
+        "uniqueKeys": 104,
+        "uniqueValues": 209,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-itempool4": {
+      "tables": [
+        "itempool"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 11,
+        "uniqueKeys": 31,
+        "uniqueValues": 37,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-jump_goal4": {
+      "tables": [
+        "jump_goal"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 15,
+        "uniqueValues": 16,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-jump_goal_collection4": {
+      "tables": [
+        "jump_goal_collection"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 18,
+        "uniqueValues": 15,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-landing4": {
+      "tables": [
+        "landing"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 12,
+        "uniqueValues": 6,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-light_beam4": {
+      "tables": [
+        "light_beam"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 28,
+        "uniqueKeys": 102,
+        "uniqueValues": 118,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-light_projectile4": {
+      "tables": [
+        "light_projectile"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 310,
+        "uniqueKeys": 523,
+        "uniqueValues": 849,
+        "uniqueTypes": 13
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-loot_config4": {
+      "tables": [
+        "loot_config"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 5,
+        "uniqueKeys": 86,
+        "uniqueValues": 102,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-managed_actor4": {
+      "tables": [
+        "managed_actor"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 10,
+        "uniqueValues": 6,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Mantle4": {
+      "tables": [
+        "mantle"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 32,
+        "uniqueValues": 34,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Manufacturer4": {
+      "tables": [
+        "manufacturer"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 9,
+        "uniqueValues": 9,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Map4": {
+      "tables": [
+        "levelsequenceactor",
+        "map"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 4,
+        "uniqueKeys": 156,
+        "uniqueValues": 523,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Melee4": {
+      "tables": [
+        "melee"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 3,
+        "uniqueKeys": 31,
+        "uniqueValues": 20,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Mission4": {
+      "tables": [
+        "choice_option",
+        "mission"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 133,
+        "uniqueKeys": 1233,
+        "uniqueValues": 4384,
+        "uniqueTypes": 16
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-missionset4": {
+      "tables": [
+        "missionset"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 21,
+        "uniqueKeys": 30,
+        "uniqueValues": 34,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-oak_echo_log_category_def4": {
+      "tables": [
+        "oak_echo_log_category_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 11,
+        "uniqueValues": 12,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-oak_echo_log_def4": {
+      "tables": [
+        "oak_echo_log_def"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 230,
+        "uniqueKeys": 245,
+        "uniqueValues": 1382,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-opportunistic_ambient_audio_config4": {
+      "tables": [
+        "opportunistic_ambient_audio_config"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 16,
+        "uniqueValues": 10,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-OrderRewind4": {
+      "tables": [
+        "OrderRewind"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 27,
+        "uniqueValues": 17,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Perception4": {
+      "tables": [
+        "perception"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 5,
+        "uniqueKeys": 21,
+        "uniqueValues": 21,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-progression4": {
+      "tables": [
+        "progression"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 11,
+        "uniqueValues": 6,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-progress_graph4": {
+      "tables": [
+        "progress_graph"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 3,
+        "uniqueKeys": 78,
+        "uniqueValues": 121,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-progress_graph_group4": {
+      "tables": [
+        "progress_graph_group"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 12,
+        "uniqueValues": 80,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Rarity4": {
+      "tables": [
+        "rarity"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 18,
+        "uniqueValues": 11,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Recoil4": {
+      "tables": [
+        "recoil"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 84,
+        "uniqueKeys": 103,
+        "uniqueValues": 187,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Resident4": {
+      "tables": [
+        "entry",
+        "unlockable"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 13,
+        "uniqueKeys": 298,
+        "uniqueValues": 821,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Resource4": {
+      "tables": [
+        "resource"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 6,
+        "uniqueKeys": 14,
+        "uniqueValues": 7,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-ResourcePool4": {
+      "tables": [
+        "resourcepool"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 19,
+        "uniqueKeys": 46,
+        "uniqueValues": 69,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-rewards4": {
+      "tables": [
+        "rewards"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 54,
+        "uniqueKeys": 130,
+        "uniqueValues": 332,
+        "uniqueTypes": 13
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Rumble4": {
+      "tables": [
+        "rumble"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 22,
+        "uniqueKeys": 43,
+        "uniqueValues": 183,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-shot_modifier4": {
+      "tables": [
+        "shot_modifier"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 3,
+        "uniqueKeys": 26,
+        "uniqueValues": 16,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Singularity4": {
+      "tables": [
+        "singularity"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 11,
+        "uniqueKeys": 77,
+        "uniqueValues": 118,
+        "uniqueTypes": 10
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Skill4": {
+      "tables": [
+        "skill"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 46,
+        "uniqueKeys": 102,
+        "uniqueValues": 158,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-skilltrees_data4": {
+      "tables": [
+        "skilltrees_data"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 30,
+        "uniqueValues": 1096,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-skill_event4": {
+      "tables": [
+        "skill_event"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 6,
+        "uniqueValues": 1,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-skill_state4": {
+      "tables": [
+        "skill_state"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 7,
+        "uniqueKeys": 14,
+        "uniqueValues": 10,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-skill_token_stack4": {
+      "tables": [
+        "skill_token_stack"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 60,
+        "uniqueKeys": 85,
+        "uniqueValues": 177,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Sliding4": {
+      "tables": [
+        "sliding"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 26,
+        "uniqueValues": 16,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-spawn_pattern4": {
+      "tables": [
+        "spawn_pattern"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 2,
+        "uniqueKeys": 18,
+        "uniqueValues": 10,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-stamp_layout4": {
+      "tables": [
+        "stamp_layout"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 4,
+        "uniqueKeys": 13,
+        "uniqueValues": 8,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Stance4": {
+      "tables": [
+        "stance"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 101,
+        "uniqueKeys": 145,
+        "uniqueValues": 275,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-stance_user_data4": {
+      "tables": [
+        "stance_user_data"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 18,
+        "uniqueValues": 19,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-station_type4": {
+      "tables": [
+        "station_type"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 17,
+        "uniqueValues": 10,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Team4": {
+      "tables": [
+        "team"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 7,
+        "uniqueKeys": 29,
+        "uniqueValues": 17,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-Trait4": {
+      "tables": [
+        "trait"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 11,
+        "uniqueValues": 10,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-uitooltipdata4": {
+      "tables": [
+        "uitooltipdata"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 507,
+        "uniqueKeys": 559,
+        "uniqueValues": 4090,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-ui_mission_reward_type4": {
+      "tables": [
+        "ui_mission_reward_type"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 17,
+        "uniqueKeys": 26,
+        "uniqueValues": 82,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-ui_stat4": {
+      "tables": [
+        "ui_stat"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 1095,
+        "uniqueKeys": 1178,
+        "uniqueValues": 3332,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-ui_stat_group4": {
+      "tables": [
+        "ui_stat_group"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 8,
+        "uniqueValues": 6,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-usability_prompt4": {
+      "tables": [
+        "usability_prompt"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 11,
+        "uniqueKeys": 20,
+        "uniqueValues": 22,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-vehicle_interaction4": {
+      "tables": [
+        "vehicle_interaction"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 66,
+        "uniqueValues": 57,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-vending_machine4": {
+      "tables": [
+        "vending_machine"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 8,
+        "uniqueValues": 3,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_0_P-Nexus-Data-weapon_manufacturer_mod4": {
+      "tables": [
+        "weapon_manufacturer_mod"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 42,
+        "uniqueValues": 37,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-achievement4": {
+      "tables": [
+        "achievement"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 18,
+        "uniqueKeys": 23,
+        "uniqueValues": 36,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-Activity4": {
+      "tables": [
+        "activity"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 16,
+        "uniqueValues": 10,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-aihitreactions4": {
+      "tables": [
+        "aihitreactions"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 37,
+        "uniqueKeys": 76,
+        "uniqueValues": 214,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-attribute4": {
+      "tables": [
+        "attribute"
+      ],
+      "stats": {
+        "recordCount": 8,
+        "entryCount": 2375,
+        "uniqueKeys": 2573,
+        "uniqueValues": 4702,
+        "uniqueTypes": 14
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-audioprovider4": {
+      "tables": [
+        "audioprovider"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 228,
+        "uniqueKeys": 1038,
+        "uniqueValues": 2495,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-audio_event4": {
+      "tables": [
+        "audio_event",
+        "event"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 25,
+        "uniqueValues": 38,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-camera_shake4": {
+      "tables": [
+        "camera_shake"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 27,
+        "uniqueKeys": 56,
+        "uniqueValues": 127,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-challenge4": {
+      "tables": [
+        "challenge"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 481,
+        "uniqueKeys": 530,
+        "uniqueValues": 2029,
+        "uniqueTypes": 10
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-challenge_list4": {
+      "tables": [
+        "challenge_list"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 60,
+        "uniqueKeys": 68,
+        "uniqueValues": 954,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-character_sounds4": {
+      "tables": [
+        "character_sounds"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 21,
+        "uniqueKeys": 96,
+        "uniqueValues": 407,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-character_sound_tags4": {
+      "tables": [
+        "character_sound_tags"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 47,
+        "uniqueKeys": 58,
+        "uniqueValues": 58,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-cinematic_mode4": {
+      "tables": [
+        "cinematic_mode"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 35,
+        "uniqueValues": 18,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-criteria_preset4": {
+      "tables": [
+        "criteria_preset"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 14,
+        "uniqueKeys": 82,
+        "uniqueValues": 66,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-DamageData4": {
+      "tables": [
+        "damagedata"
+      ],
+      "stats": {
+        "recordCount": 6,
+        "entryCount": 280,
+        "uniqueKeys": 447,
+        "uniqueValues": 680,
+        "uniqueTypes": 12
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-DamageSource4": {
+      "tables": [
+        "damagesource"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 11,
+        "uniqueKeys": 25,
+        "uniqueValues": 27,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-DamageType4": {
+      "tables": [
+        "damagetype"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 20,
+        "uniqueValues": 18,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-damage_modifier4": {
+      "tables": [
+        "damage_modifier"
+      ],
+      "stats": {
+        "recordCount": 8,
+        "entryCount": 44,
+        "uniqueKeys": 99,
+        "uniqueValues": 143,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-DialogEchoPresentation4": {
+      "tables": [
+        "dialogechopresentation"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 45,
+        "uniqueKeys": 51,
+        "uniqueValues": 85,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-DialogEvent4": {
+      "tables": [
+        "dialogevent"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 38,
+        "uniqueKeys": 27,
+        "uniqueValues": 35,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-DialogNameTag4": {
+      "tables": [
+        "dialognametag"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 341,
+        "uniqueKeys": 192,
+        "uniqueValues": 362,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-dialogscript4": {
+      "tables": [
+        "dialoglineslot",
+        "dialogscript"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 82,
+        "uniqueKeys": 2016,
+        "uniqueValues": 7484,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-display_data4": {
+      "tables": [
+        "display_data"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 489,
+        "uniqueKeys": 514,
+        "uniqueValues": 1392,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-effect_collection4": {
+      "tables": [
+        "effect_collection"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 159,
+        "uniqueKeys": 190,
+        "uniqueValues": 473,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-feedback4": {
+      "tables": [
+        "feedback"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 65,
+        "uniqueKeys": 108,
+        "uniqueValues": 378,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-Firmware4": {
+      "tables": [
+        "firmware"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 21,
+        "uniqueKeys": 78,
+        "uniqueValues": 258,
+        "uniqueTypes": 9
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-gbxactor4": {
+      "tables": [
+        "gbxactor"
+      ],
+      "stats": {
+        "recordCount": 7,
+        "entryCount": 607,
+        "uniqueKeys": 1416,
+        "uniqueValues": 3800,
+        "uniqueTypes": 52
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-gbx_discovery_location_meta_data4": {
+      "tables": [
+        "gbx_discovery_location_meta_data"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 936,
+        "uniqueKeys": 994,
+        "uniqueValues": 9662,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-gbx_discovery_location_type_def4": {
+      "tables": [
+        "gbx_discovery_location_type_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 43,
+        "uniqueKeys": 108,
+        "uniqueValues": 221,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-gbx_material_parameter4": {
+      "tables": [
+        "gbx_material_parameter"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 10,
+        "uniqueKeys": 28,
+        "uniqueValues": 86,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-gbx_ue_data_table4": {
+      "tables": [
+        "gbx_ue_data_table"
+      ],
+      "stats": {
+        "recordCount": 6,
+        "entryCount": 135,
+        "uniqueKeys": 377,
+        "uniqueValues": 3072,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-Gore4": {
+      "tables": [
+        "gore"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 33,
+        "uniqueKeys": 46,
+        "uniqueValues": 207,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-gore_region4": {
+      "tables": [
+        "gore_region"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 130,
+        "uniqueKeys": 167,
+        "uniqueValues": 1549,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-HealthType4": {
+      "tables": [
+        "healthtype"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 14,
+        "uniqueValues": 10,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-hit_region4": {
+      "tables": [
+        "hit_region"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 27,
+        "uniqueKeys": 81,
+        "uniqueValues": 56,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-impact_effect4": {
+      "tables": [
+        "impact_effect"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 205,
+        "uniqueKeys": 282,
+        "uniqueValues": 672,
+        "uniqueTypes": 10
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-impact_effect_collection4": {
+      "tables": [
+        "impact_effect_collection"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 28,
+        "uniqueKeys": 50,
+        "uniqueValues": 160,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-inv4": {
+      "tables": [
+        "inv"
+      ],
+      "stats": {
+        "recordCount": 7,
+        "entryCount": 320,
+        "uniqueKeys": 3409,
+        "uniqueValues": 13513,
+        "uniqueTypes": 45
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-inv_custom4": {
+      "tables": [
+        "inv_custom"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 45,
+        "uniqueKeys": 67,
+        "uniqueValues": 350,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-inv_name_part4": {
+      "tables": [
+        "inv_name_part"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 460,
+        "uniqueKeys": 480,
+        "uniqueValues": 943,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-inv_stat4": {
+      "tables": [
+        "inv_stat"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 23,
+        "uniqueKeys": 104,
+        "uniqueValues": 209,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-itempool4": {
+      "tables": [
+        "itempool"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 23,
+        "uniqueKeys": 83,
+        "uniqueValues": 98,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-light_beam4": {
+      "tables": [
+        "light_beam"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 39,
+        "uniqueKeys": 118,
+        "uniqueValues": 160,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-light_projectile4": {
+      "tables": [
+        "light_projectile"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 338,
+        "uniqueKeys": 559,
+        "uniqueValues": 955,
+        "uniqueTypes": 14
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-Map4": {
+      "tables": [
+        "levelsequenceactor",
+        "map"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 5,
+        "uniqueKeys": 188,
+        "uniqueValues": 571,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-Mission4": {
+      "tables": [
+        "mission",
+        "objective"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 92,
+        "uniqueKeys": 1074,
+        "uniqueValues": 3399,
+        "uniqueTypes": 14
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-NavLink4": {
+      "tables": [
+        "navlink"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 146,
+        "uniqueKeys": 166,
+        "uniqueValues": 345,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-oak_echo_log_def4": {
+      "tables": [
+        "oak_echo_log_def"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 230,
+        "uniqueKeys": 245,
+        "uniqueValues": 1382,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-PerchUser4": {
+      "tables": [
+        "PerchUser"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 31,
+        "uniqueValues": 7,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-Resident4": {
+      "tables": [
+        "stat_collection",
+        "usable_consumer"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 7,
+        "uniqueValues": 3,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-rewards4": {
+      "tables": [
+        "rewards"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 52,
+        "uniqueKeys": 125,
+        "uniqueValues": 325,
+        "uniqueTypes": 11
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-Rumble4": {
+      "tables": [
+        "rumble"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 35,
+        "uniqueKeys": 56,
+        "uniqueValues": 214,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-se_severity_channel4": {
+      "tables": [
+        "se_severity_channel"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 5,
+        "uniqueValues": 1,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-Singularity4": {
+      "tables": [
+        "singularity"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 13,
+        "uniqueKeys": 80,
+        "uniqueValues": 121,
+        "uniqueTypes": 10
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-Skill4": {
+      "tables": [
+        "skill"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 52,
+        "uniqueKeys": 108,
+        "uniqueValues": 170,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-skill_state4": {
+      "tables": [
+        "skill_state"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 9,
+        "uniqueKeys": 18,
+        "uniqueValues": 12,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-skill_token_stack4": {
+      "tables": [
+        "skill_token_stack"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 64,
+        "uniqueKeys": 89,
+        "uniqueValues": 194,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-spawn_pattern4": {
+      "tables": [
+        "spawn_pattern"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 3,
+        "uniqueKeys": 20,
+        "uniqueValues": 14,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-stamp_layout4": {
+      "tables": [
+        "stamp_layout"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 5,
+        "uniqueKeys": 14,
+        "uniqueValues": 10,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-Stance4": {
+      "tables": [
+        "stance"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 250,
+        "uniqueKeys": 300,
+        "uniqueValues": 535,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-taggedanim4": {
+      "tables": [
+        "taggedanim"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 24,
+        "uniqueKeys": 62,
+        "uniqueValues": 185,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-Team4": {
+      "tables": [
+        "team"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 9,
+        "uniqueKeys": 31,
+        "uniqueValues": 19,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-Trait4": {
+      "tables": [
+        "trait"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 7,
+        "uniqueKeys": 17,
+        "uniqueValues": 25,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-uitooltipdata4": {
+      "tables": [
+        "uitooltipdata"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 507,
+        "uniqueKeys": 559,
+        "uniqueValues": 4089,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-ui_mission_reward_type4": {
+      "tables": [
+        "ui_mission_reward_type"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 17,
+        "uniqueKeys": 26,
+        "uniqueValues": 82,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-ui_stat4": {
+      "tables": [
+        "ui_stat"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 1099,
+        "uniqueKeys": 1183,
+        "uniqueValues": 3341,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-usability_prompt4": {
+      "tables": [
+        "usability_prompt"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 13,
+        "uniqueKeys": 22,
+        "uniqueValues": 26,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-vehicle_interaction4": {
+      "tables": [
+        "vehicle_interaction"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 69,
+        "uniqueValues": 58,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk4-Windows_2_P-Nexus-Data-wwise_soundbanks4": {
+      "tables": [
+        "soundbank",
+        "wwise_soundbanks"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 15,
+        "uniqueValues": 10,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Activity6": {
+      "tables": [
+        "activity"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 199,
+        "uniqueKeys": 274,
+        "uniqueValues": 541,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-ActivityRequest6": {
+      "tables": [
+        "activityrequest"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 69,
+        "uniqueKeys": 130,
+        "uniqueValues": 240,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-ActivityRequestSettingsdata6": {
+      "tables": [
+        "ActivityRequestSettingsdata"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 37,
+        "uniqueKeys": 54,
+        "uniqueValues": 63,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-aihitreactions6": {
+      "tables": [
+        "aihitreactions"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 80,
+        "uniqueKeys": 130,
+        "uniqueValues": 338,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-ainodefollowsettings6": {
+      "tables": [
+        "ainodefollowsettings"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 12,
+        "uniqueValues": 7,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-ainodeLeadsettings6": {
+      "tables": [
+        "ainodeLeadsettings"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 12,
+        "uniqueValues": 7,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-animupdaterateparams6": {
+      "tables": [
+        "animupdaterateparams"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 2,
+        "uniqueKeys": 11,
+        "uniqueValues": 9,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-attribute6": {
+      "tables": [
+        "attribute"
+      ],
+      "stats": {
+        "recordCount": 10,
+        "entryCount": 926,
+        "uniqueKeys": 1098,
+        "uniqueValues": 2014,
+        "uniqueTypes": 20
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-audioprovider6": {
+      "tables": [
+        "audioprovider"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 760,
+        "uniqueKeys": 2552,
+        "uniqueValues": 5450,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-camera_shake6": {
+      "tables": [
+        "camera_shake"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 54,
+        "uniqueKeys": 86,
+        "uniqueValues": 146,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Capital6": {
+      "tables": [
+        "capital"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 8,
+        "uniqueValues": 4,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-carryable_object_category6": {
+      "tables": [
+        "carryable_object_category"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 27,
+        "uniqueValues": 18,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-challenge6": {
+      "tables": [
+        "challenge"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 54,
+        "uniqueKeys": 90,
+        "uniqueValues": 343,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-character_movement6": {
+      "tables": [
+        "character_movement"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 61,
+        "uniqueValues": 42,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-character_sounds6": {
+      "tables": [
+        "character_sounds"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 67,
+        "uniqueKeys": 161,
+        "uniqueValues": 706,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-cinematic_mode6": {
+      "tables": [
+        "cinematic_mode"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 5,
+        "uniqueKeys": 31,
+        "uniqueValues": 17,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-cinematic_player_exit6": {
+      "tables": [
+        "cinematic_player_exit"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 6,
+        "uniqueValues": 2,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-cine_grant_script6": {
+      "tables": [
+        "cine_grant_script"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 5,
+        "uniqueValues": 1,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-cine_grant_stage6": {
+      "tables": [
+        "cine_grant_stage"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 8,
+        "uniqueValues": 3,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-closed_caption6": {
+      "tables": [
+        "closed_caption"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 18,
+        "uniqueKeys": 25,
+        "uniqueValues": 48,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-collectible6": {
+      "tables": [
+        "collectible"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 16,
+        "uniqueValues": 25,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-coordinated_effect_filter6": {
+      "tables": [
+        "coordinated_effect_filter"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 9,
+        "uniqueValues": 3,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-criteria_preset6": {
+      "tables": [
+        "criteria_preset"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 26,
+        "uniqueKeys": 97,
+        "uniqueValues": 88,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Critter6": {
+      "tables": [
+        "critter"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 341,
+        "uniqueKeys": 436,
+        "uniqueValues": 893,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-critterbiome6": {
+      "tables": [
+        "critterbiome"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 25,
+        "uniqueKeys": 37,
+        "uniqueValues": 377,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Crosshair6": {
+      "tables": [
+        "crosshair"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 6,
+        "uniqueValues": 2,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-DamageData6": {
+      "tables": [
+        "damagedata"
+      ],
+      "stats": {
+        "recordCount": 8,
+        "entryCount": 756,
+        "uniqueKeys": 954,
+        "uniqueValues": 1487,
+        "uniqueTypes": 12
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-DamageSource6": {
+      "tables": [
+        "damagesource"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 16,
+        "uniqueKeys": 31,
+        "uniqueValues": 31,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-DamageType6": {
+      "tables": [
+        "damagetype"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 5,
+        "uniqueKeys": 27,
+        "uniqueValues": 22,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-damage_filter6": {
+      "tables": [
+        "damage_filter"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 4,
+        "uniqueKeys": 17,
+        "uniqueValues": 9,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-damage_modifier6": {
+      "tables": [
+        "damage_modifier"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 57,
+        "uniqueKeys": 122,
+        "uniqueValues": 157,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-DeveloperSettings6": {
+      "tables": [
+        "developersettings"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 13,
+        "uniqueValues": 48,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-DialogEchoPresentation6": {
+      "tables": [
+        "dialogechopresentation"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 80,
+        "uniqueKeys": 87,
+        "uniqueValues": 160,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-DialogEvent6": {
+      "tables": [
+        "dialogevent"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 102,
+        "uniqueKeys": 60,
+        "uniqueValues": 65,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-DialogNameTag6": {
+      "tables": [
+        "dialognametag"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 1029,
+        "uniqueKeys": 549,
+        "uniqueValues": 923,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-DialogParameter6": {
+      "tables": [
+        "dialogparameter"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 7,
+        "uniqueKeys": 12,
+        "uniqueValues": 10,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-DialogQuietTime6": {
+      "tables": [
+        "dialogquiettime"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 23,
+        "uniqueKeys": 32,
+        "uniqueValues": 42,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-DialogStyle6": {
+      "tables": [
+        "dialogstyle"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 7,
+        "uniqueKeys": 26,
+        "uniqueValues": 24,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-display_data6": {
+      "tables": [
+        "display_data"
+      ],
+      "stats": {
+        "recordCount": 6,
+        "entryCount": 1088,
+        "uniqueKeys": 1131,
+        "uniqueValues": 3440,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-effect_collection6": {
+      "tables": [
+        "effect_collection"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 66,
+        "uniqueKeys": 103,
+        "uniqueValues": 318,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-effect_relevance6": {
+      "tables": [
+        "effect_relevance"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 12,
+        "uniqueValues": 11,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-entitlement6": {
+      "tables": [
+        "entitlement"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 8,
+        "uniqueValues": 4,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-feedback6": {
+      "tables": [
+        "feedback"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 377,
+        "uniqueKeys": 423,
+        "uniqueValues": 861,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-firing_pattern6": {
+      "tables": [
+        "firing_pattern"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 7,
+        "uniqueKeys": 33,
+        "uniqueValues": 36,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Firmware6": {
+      "tables": [
+        "firmware"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 27,
+        "uniqueValues": 23,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Formation6": {
+      "tables": [
+        "formation"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 10,
+        "uniqueKeys": 22,
+        "uniqueValues": 38,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gbxactor6": {
+      "tables": [
+        "gbxactor"
+      ],
+      "stats": {
+        "recordCount": 11,
+        "entryCount": 3459,
+        "uniqueKeys": 4713,
+        "uniqueValues": 13739,
+        "uniqueTypes": 50
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-GbxActorPart6": {
+      "tables": [
+        "GbxActorPart"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 974,
+        "uniqueKeys": 1077,
+        "uniqueValues": 6445,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gbxmusic6": {
+      "tables": [
+        "gbxmusic"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 10,
+        "uniqueKeys": 68,
+        "uniqueValues": 106,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gbxsymphonicambientaudio6": {
+      "tables": [
+        "gbxsymphonicambientaudio"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 16,
+        "uniqueValues": 12,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gbx_discovery_generator_def6": {
+      "tables": [
+        "gbx_discovery_generator_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 6,
+        "uniqueValues": 2,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gbx_discovery_icon_size_def6": {
+      "tables": [
+        "gbx_discovery_icon_size_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 11,
+        "uniqueValues": 10,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gbx_discovery_in_world_indicator_def6": {
+      "tables": [
+        "gbx_discovery_in_world_indicator_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 29,
+        "uniqueValues": 25,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gbx_discovery_location_type_def6": {
+      "tables": [
+        "gbx_discovery_location_type_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 17,
+        "uniqueKeys": 58,
+        "uniqueValues": 74,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gbx_discovery_presentation_def6": {
+      "tables": [
+        "gbx_discovery_presentation_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 31,
+        "uniqueValues": 36,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gbx_discovery_viewable_map_behavior_def6": {
+      "tables": [
+        "gbx_discovery_viewable_map_behavior_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 45,
+        "uniqueValues": 25,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gbx_discovery_viewable_map_meta_data6": {
+      "tables": [
+        "gbx_discovery_viewable_map_meta_data"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 11,
+        "uniqueKeys": 25,
+        "uniqueValues": 119,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gbx_fly_to_actor_config_def6": {
+      "tables": [
+        "gbx_fly_to_actor_config_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 16,
+        "uniqueValues": 14,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gbx_material_parameter6": {
+      "tables": [
+        "gbx_material_parameter"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 173,
+        "uniqueKeys": 196,
+        "uniqueValues": 561,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gbx_stand_in_scene_def6": {
+      "tables": [
+        "gbx_stand_in_scene_def"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 14,
+        "uniqueKeys": 90,
+        "uniqueValues": 334,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gbx_ue_data_table6": {
+      "tables": [
+        "gbx_ue_data_table"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 76,
+        "uniqueKeys": 198,
+        "uniqueValues": 1471,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Gore6": {
+      "tables": [
+        "gore"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 44,
+        "uniqueKeys": 57,
+        "uniqueValues": 232,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-gore_region6": {
+      "tables": [
+        "gore_region"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 117,
+        "uniqueKeys": 156,
+        "uniqueValues": 1522,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Grapple6": {
+      "tables": [
+        "grapple"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 42,
+        "uniqueValues": 34,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-hazard_interaction6": {
+      "tables": [
+        "hazard_interaction"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 6,
+        "uniqueKeys": 13,
+        "uniqueValues": 11,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-hazard_interaction_state6": {
+      "tables": [
+        "hazard_interaction_state"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 5,
+        "uniqueKeys": 21,
+        "uniqueValues": 19,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-HealthType6": {
+      "tables": [
+        "healthtype"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 16,
+        "uniqueValues": 18,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-hit_region6": {
+      "tables": [
+        "hit_region"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 84,
+        "uniqueKeys": 141,
+        "uniqueValues": 154,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-hover_drive6": {
+      "tables": [
+        "hover_drive"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 38,
+        "uniqueKeys": 59,
+        "uniqueValues": 146,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-hover_drive_attr_set6": {
+      "tables": [
+        "hover_drive_attr_set"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 27,
+        "uniqueKeys": 41,
+        "uniqueValues": 92,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-impact_effect6": {
+      "tables": [
+        "impact_effect"
+      ],
+      "stats": {
+        "recordCount": 6,
+        "entryCount": 243,
+        "uniqueKeys": 321,
+        "uniqueValues": 786,
+        "uniqueTypes": 10
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-impact_effect_collection6": {
+      "tables": [
+        "impact_effect_collection"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 24,
+        "uniqueKeys": 48,
+        "uniqueValues": 126,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-ingredient_list6": {
+      "tables": [
+        "ingredient_list"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 8,
+        "uniqueValues": 3,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-inv6": {
+      "tables": [
+        "inv",
+        "inv_comp"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 102,
+        "uniqueKeys": 287,
+        "uniqueValues": 620,
+        "uniqueTypes": 20
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-inv_name_part6": {
+      "tables": [
+        "inv_name_part"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 8,
+        "uniqueValues": 5,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-inv_name_strategy6": {
+      "tables": [
+        "inv_name_strategy"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 7,
+        "uniqueValues": 3,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-itempool6": {
+      "tables": [
+        "itempool"
+      ],
+      "stats": {
+        "recordCount": 6,
+        "entryCount": 384,
+        "uniqueKeys": 480,
+        "uniqueValues": 899,
+        "uniqueTypes": 9
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-ItemPoolList6": {
+      "tables": [
+        "itempoollist"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 3,
+        "uniqueKeys": 20,
+        "uniqueValues": 14,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-jump_goal6": {
+      "tables": [
+        "jump_goal"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 11,
+        "uniqueValues": 11,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-jump_goal_collection6": {
+      "tables": [
+        "jump_goal_collection"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 14,
+        "uniqueValues": 6,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-light_beam6": {
+      "tables": [
+        "light_beam"
+      ],
+      "stats": {
+        "recordCount": 7,
+        "entryCount": 78,
+        "uniqueKeys": 158,
+        "uniqueValues": 263,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-light_projectile6": {
+      "tables": [
+        "light_projectile"
+      ],
+      "stats": {
+        "recordCount": 7,
+        "entryCount": 136,
+        "uniqueKeys": 328,
+        "uniqueValues": 594,
+        "uniqueTypes": 13
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-loot_config6": {
+      "tables": [
+        "loot_config"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 30,
+        "uniqueKeys": 114,
+        "uniqueValues": 173,
+        "uniqueTypes": 9
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-managed_actor6": {
+      "tables": [
+        "managed_actor"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 3,
+        "uniqueKeys": 12,
+        "uniqueValues": 5,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Mantle6": {
+      "tables": [
+        "mantle"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 11,
+        "uniqueValues": 5,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Map6": {
+      "tables": [
+        "map"
+      ],
+      "stats": {
+        "recordCount": 9,
+        "entryCount": 820,
+        "uniqueKeys": 2545,
+        "uniqueValues": 8246,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Melee6": {
+      "tables": [
+        "melee"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 25,
+        "uniqueValues": 11,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-migrationevent6": {
+      "tables": [
+        "migrationevent"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 74,
+        "uniqueKeys": 100,
+        "uniqueValues": 174,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-missionset6": {
+      "tables": [
+        "missionset"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 8,
+        "uniqueValues": 1,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-navfilteroverrides6": {
+      "tables": [
+        "navfilteroverrides"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 7,
+        "uniqueValues": 8,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-NavLink6": {
+      "tables": [
+        "navlink"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 151,
+        "uniqueKeys": 172,
+        "uniqueValues": 343,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-opportunistic_ambient_audio_config6": {
+      "tables": [
+        "opportunistic_ambient_audio_config"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 87,
+        "uniqueKeys": 108,
+        "uniqueValues": 244,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Perception6": {
+      "tables": [
+        "perception"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 3,
+        "uniqueKeys": 14,
+        "uniqueValues": 8,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-PerchUser6": {
+      "tables": [
+        "PerchUser"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 20,
+        "uniqueKeys": 142,
+        "uniqueValues": 167,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-pingfeedbackdata6": {
+      "tables": [
+        "pingfeedbackdata"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 15,
+        "uniqueKeys": 41,
+        "uniqueValues": 53,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-poa_actor6": {
+      "tables": [
+        "poa_actor"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 15,
+        "uniqueKeys": 66,
+        "uniqueValues": 122,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-preferredparts6": {
+      "tables": [
+        "preferredparts"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 6,
+        "uniqueValues": 3,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-progression_command_list6": {
+      "tables": [
+        "progression_command_list"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 18,
+        "uniqueKeys": 35,
+        "uniqueValues": 98,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-progress_graph6": {
+      "tables": [
+        "progress_graph"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 3,
+        "uniqueKeys": 68,
+        "uniqueValues": 94,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-puddle_hazard6": {
+      "tables": [
+        "puddle_hazard"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 6,
+        "uniqueKeys": 16,
+        "uniqueValues": 20,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-radial_blur6": {
+      "tables": [
+        "radial_blur"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 9,
+        "uniqueValues": 7,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-radio_script6": {
+      "tables": [
+        "radio_script"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 6,
+        "uniqueValues": 2,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Rarity6": {
+      "tables": [
+        "rarity"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 20,
+        "uniqueValues": 15,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Recoil6": {
+      "tables": [
+        "recoil"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 10,
+        "uniqueKeys": 28,
+        "uniqueValues": 49,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Resident6": {
+      "tables": [
+        "globals",
+        "impact_response"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 10,
+        "uniqueValues": 5,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Resource6": {
+      "tables": [
+        "resource"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 5,
+        "uniqueKeys": 12,
+        "uniqueValues": 6,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-ResourcePool6": {
+      "tables": [
+        "resourcepool"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 6,
+        "uniqueKeys": 31,
+        "uniqueValues": 25,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-rewards6": {
+      "tables": [
+        "rewards"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 138,
+        "uniqueKeys": 201,
+        "uniqueValues": 692,
+        "uniqueTypes": 13
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Rumble6": {
+      "tables": [
+        "rumble"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 90,
+        "uniqueKeys": 113,
+        "uniqueValues": 278,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-se_severity_channel6": {
+      "tables": [
+        "se_severity_channel"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 7,
+        "uniqueValues": 3,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-shot_modifier6": {
+      "tables": [
+        "shot_modifier"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 2,
+        "uniqueKeys": 29,
+        "uniqueValues": 14,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Singularity6": {
+      "tables": [
+        "singularity"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 11,
+        "uniqueKeys": 76,
+        "uniqueValues": 90,
+        "uniqueTypes": 10
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Skill6": {
+      "tables": [
+        "skill"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 46,
+        "uniqueKeys": 97,
+        "uniqueValues": 126,
+        "uniqueTypes": 9
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-skill_action_exec_query6": {
+      "tables": [
+        "skill_action_exec_query"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 11,
+        "uniqueValues": 4,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-skill_effect6": {
+      "tables": [
+        "skill_effect"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 5,
+        "uniqueKeys": 13,
+        "uniqueValues": 7,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-skill_event6": {
+      "tables": [
+        "skill_event"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 15,
+        "uniqueKeys": 21,
+        "uniqueValues": 15,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-skill_mresource_group6": {
+      "tables": [
+        "skill_mresource_group"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 11,
+        "uniqueKeys": 18,
+        "uniqueValues": 12,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-skill_state6": {
+      "tables": [
+        "skill_state"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 82,
+        "uniqueKeys": 90,
+        "uniqueValues": 103,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-skill_state_condition6": {
+      "tables": [
+        "skill_state_condition"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 11,
+        "uniqueKeys": 33,
+        "uniqueValues": 45,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-skill_target_list6": {
+      "tables": [
+        "skill_target_list"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 9,
+        "uniqueKeys": 15,
+        "uniqueValues": 9,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-skill_token_stack6": {
+      "tables": [
+        "skill_token_stack"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 18,
+        "uniqueKeys": 39,
+        "uniqueValues": 66,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Sliding6": {
+      "tables": [
+        "sliding"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 29,
+        "uniqueValues": 18,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-spawn_pattern6": {
+      "tables": [
+        "spawn_pattern"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 37,
+        "uniqueKeys": 63,
+        "uniqueValues": 92,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-stamp_context6": {
+      "tables": [
+        "stamp_context"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 145,
+        "uniqueKeys": 174,
+        "uniqueValues": 642,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-stamp_layout6": {
+      "tables": [
+        "stamp_layout"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 567,
+        "uniqueKeys": 630,
+        "uniqueValues": 1144,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-stamp_layout_group6": {
+      "tables": [
+        "stamp_layout_group"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 42,
+        "uniqueKeys": 53,
+        "uniqueValues": 186,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-stamp_map_initialization6": {
+      "tables": [
+        "stamp_map_initialization"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 9,
+        "uniqueValues": 2,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Stance6": {
+      "tables": [
+        "stance"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 470,
+        "uniqueKeys": 534,
+        "uniqueValues": 971,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-station_type6": {
+      "tables": [
+        "station_type"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 11,
+        "uniqueValues": 5,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-status_effect_pushevent6": {
+      "tables": [
+        "status_effect_pushevent"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 2,
+        "uniqueKeys": 8,
+        "uniqueValues": 2,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-status_effect_rule6": {
+      "tables": [
+        "status_effect_rule"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 15,
+        "uniqueValues": 13,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-taggedanim6": {
+      "tables": [
+        "taggedanim"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 39,
+        "uniqueKeys": 93,
+        "uniqueValues": 221,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Team6": {
+      "tables": [
+        "team"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 5,
+        "uniqueKeys": 20,
+        "uniqueValues": 12,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-TimeOfDayCycle6": {
+      "tables": [
+        "timeofdaycycle"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 22,
+        "uniqueKeys": 76,
+        "uniqueValues": 2752,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-town6": {
+      "tables": [
+        "town"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 17,
+        "uniqueValues": 11,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-tracker_location6": {
+      "tables": [
+        "tracker_location"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 6,
+        "uniqueKeys": 29,
+        "uniqueValues": 25,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-trait_pool6": {
+      "tables": [
+        "trait_pool"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 12,
+        "uniqueValues": 14,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-uitooltipdata6": {
+      "tables": [
+        "uitooltipdata"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 21,
+        "uniqueKeys": 48,
+        "uniqueValues": 81,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-ui_movement_type6": {
+      "tables": [
+        "ui_movement_type"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 15,
+        "uniqueKeys": 20,
+        "uniqueValues": 30,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-ui_stat6": {
+      "tables": [
+        "ui_stat"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 82,
+        "uniqueKeys": 120,
+        "uniqueValues": 267,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-ui_stat_group6": {
+      "tables": [
+        "ui_stat_group"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 6,
+        "uniqueValues": 2,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-usability6": {
+      "tables": [
+        "usability"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 3,
+        "uniqueKeys": 29,
+        "uniqueValues": 24,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-usability_prompt6": {
+      "tables": [
+        "usability_prompt"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 50,
+        "uniqueKeys": 59,
+        "uniqueValues": 101,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-vending_machine6": {
+      "tables": [
+        "vending_machine"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 6,
+        "uniqueKeys": 78,
+        "uniqueValues": 65,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk6-Windows_0_P-Nexus-Data-Waypoint6": {
+      "tables": [
+        "waypoint"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 60,
+        "uniqueKeys": 77,
+        "uniqueValues": 250,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-aihitreactions6": {
+      "tables": [
+        "aihitreactions"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 54,
+        "uniqueKeys": 104,
+        "uniqueValues": 241,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-attribute6": {
+      "tables": [
+        "attribute"
+      ],
+      "stats": {
+        "recordCount": 10,
+        "entryCount": 907,
+        "uniqueKeys": 1080,
+        "uniqueValues": 1985,
+        "uniqueTypes": 20
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-audioprovider6": {
+      "tables": [
+        "audioprovider"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 661,
+        "uniqueKeys": 2210,
+        "uniqueValues": 4665,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-camera_shake6": {
+      "tables": [
+        "camera_shake"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 48,
+        "uniqueKeys": 80,
+        "uniqueValues": 140,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-character_sounds6": {
+      "tables": [
+        "character_sounds"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 57,
+        "uniqueKeys": 150,
+        "uniqueValues": 594,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-character_sound_tags6": {
+      "tables": [
+        "character_sound_tags"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 29,
+        "uniqueKeys": 39,
+        "uniqueValues": 39,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-cinematic_mode6": {
+      "tables": [
+        "cinematic_mode"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 5,
+        "uniqueKeys": 34,
+        "uniqueValues": 16,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-DamageData6": {
+      "tables": [
+        "damagedata"
+      ],
+      "stats": {
+        "recordCount": 8,
+        "entryCount": 609,
+        "uniqueKeys": 805,
+        "uniqueValues": 1299,
+        "uniqueTypes": 12
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-DamageType6": {
+      "tables": [
+        "damagetype"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 4,
+        "uniqueKeys": 20,
+        "uniqueValues": 13,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-damage_modifier6": {
+      "tables": [
+        "damage_modifier"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 55,
+        "uniqueKeys": 120,
+        "uniqueValues": 154,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-DeveloperSettings6": {
+      "tables": [
+        "developersettings"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 13,
+        "uniqueValues": 49,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-DialogEchoPresentation6": {
+      "tables": [
+        "dialogechopresentation"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 77,
+        "uniqueKeys": 84,
+        "uniqueValues": 154,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-DialogEvent6": {
+      "tables": [
+        "dialogevent"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 130,
+        "uniqueKeys": 74,
+        "uniqueValues": 79,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-DialogNameTag6": {
+      "tables": [
+        "dialognametag"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 962,
+        "uniqueKeys": 513,
+        "uniqueValues": 853,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-DialogQuietTime6": {
+      "tables": [
+        "dialogquiettime"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 26,
+        "uniqueKeys": 35,
+        "uniqueValues": 48,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-display_data6": {
+      "tables": [
+        "display_data"
+      ],
+      "stats": {
+        "recordCount": 6,
+        "entryCount": 965,
+        "uniqueKeys": 1008,
+        "uniqueValues": 3072,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-effect_collection6": {
+      "tables": [
+        "effect_collection"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 53,
+        "uniqueKeys": 90,
+        "uniqueValues": 264,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-feedback6": {
+      "tables": [
+        "feedback"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 366,
+        "uniqueKeys": 412,
+        "uniqueValues": 850,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-gbxactor6": {
+      "tables": [
+        "gbxactor"
+      ],
+      "stats": {
+        "recordCount": 11,
+        "entryCount": 3251,
+        "uniqueKeys": 4502,
+        "uniqueValues": 12685,
+        "uniqueTypes": 50
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-GbxActorPart6": {
+      "tables": [
+        "GbxActorPart"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 859,
+        "uniqueKeys": 962,
+        "uniqueValues": 5787,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-gbx_material_parameter6": {
+      "tables": [
+        "gbx_material_parameter"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 168,
+        "uniqueKeys": 191,
+        "uniqueValues": 526,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-gbx_ue_data_table6": {
+      "tables": [
+        "gbx_ue_data_table"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 59,
+        "uniqueKeys": 181,
+        "uniqueValues": 1297,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-Gore6": {
+      "tables": [
+        "gore"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 24,
+        "uniqueKeys": 37,
+        "uniqueValues": 157,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-gore_region6": {
+      "tables": [
+        "gore_region"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 39,
+        "uniqueKeys": 77,
+        "uniqueValues": 576,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-HealthType6": {
+      "tables": [
+        "healthtype"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 15,
+        "uniqueValues": 14,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-hit_region6": {
+      "tables": [
+        "hit_region"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 67,
+        "uniqueKeys": 122,
+        "uniqueValues": 131,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-impact_effect6": {
+      "tables": [
+        "impact_effect"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 187,
+        "uniqueKeys": 264,
+        "uniqueValues": 653,
+        "uniqueTypes": 10
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-impact_effect_collection6": {
+      "tables": [
+        "impact_effect_collection"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 18,
+        "uniqueKeys": 42,
+        "uniqueValues": 91,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-inv6": {
+      "tables": [
+        "inv",
+        "inv_comp"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 102,
+        "uniqueKeys": 287,
+        "uniqueValues": 631,
+        "uniqueTypes": 20
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-itempool6": {
+      "tables": [
+        "itempool"
+      ],
+      "stats": {
+        "recordCount": 6,
+        "entryCount": 374,
+        "uniqueKeys": 470,
+        "uniqueValues": 881,
+        "uniqueTypes": 9
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-light_beam6": {
+      "tables": [
+        "light_beam"
+      ],
+      "stats": {
+        "recordCount": 7,
+        "entryCount": 67,
+        "uniqueKeys": 146,
+        "uniqueValues": 233,
+        "uniqueTypes": 7
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-light_projectile6": {
+      "tables": [
+        "light_projectile"
+      ],
+      "stats": {
+        "recordCount": 7,
+        "entryCount": 113,
+        "uniqueKeys": 301,
+        "uniqueValues": 516,
+        "uniqueTypes": 13
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-Map6": {
+      "tables": [
+        "map"
+      ],
+      "stats": {
+        "recordCount": 9,
+        "entryCount": 820,
+        "uniqueKeys": 2546,
+        "uniqueValues": 8248,
+        "uniqueTypes": 6
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-NavLink6": {
+      "tables": [
+        "navlink"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 44,
+        "uniqueKeys": 65,
+        "uniqueValues": 99,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-PerchUser6": {
+      "tables": [
+        "PerchUser"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 18,
+        "uniqueKeys": 139,
+        "uniqueValues": 163,
+        "uniqueTypes": 3
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-Resident6": {
+      "tables": [
+        "globals",
+        "impact_response"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 1,
+        "uniqueKeys": 10,
+        "uniqueValues": 5,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-rewards6": {
+      "tables": [
+        "rewards"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 138,
+        "uniqueKeys": 201,
+        "uniqueValues": 692,
+        "uniqueTypes": 13
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-Rumble6": {
+      "tables": [
+        "rumble"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 77,
+        "uniqueKeys": 100,
+        "uniqueValues": 260,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-se_severity_channel6": {
+      "tables": [
+        "se_severity_channel"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 2,
+        "uniqueKeys": 6,
+        "uniqueValues": 2,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-Singularity6": {
+      "tables": [
+        "singularity"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 9,
+        "uniqueKeys": 73,
+        "uniqueValues": 86,
+        "uniqueTypes": 10
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-Skill6": {
+      "tables": [
+        "skill"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 40,
+        "uniqueKeys": 91,
+        "uniqueValues": 114,
+        "uniqueTypes": 9
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-skill_state6": {
+      "tables": [
+        "skill_state"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 80,
+        "uniqueKeys": 87,
+        "uniqueValues": 101,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-spawn_pattern6": {
+      "tables": [
+        "spawn_pattern"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 36,
+        "uniqueKeys": 61,
+        "uniqueValues": 90,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-stamp_context6": {
+      "tables": [
+        "stamp_context"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 145,
+        "uniqueKeys": 174,
+        "uniqueValues": 643,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-Stance6": {
+      "tables": [
+        "stance"
+      ],
+      "stats": {
+        "recordCount": 5,
+        "entryCount": 321,
+        "uniqueKeys": 384,
+        "uniqueValues": 753,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-taggedanim6": {
+      "tables": [
+        "taggedanim"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 26,
+        "uniqueKeys": 76,
+        "uniqueValues": 135,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-Team6": {
+      "tables": [
+        "team"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 3,
+        "uniqueKeys": 18,
+        "uniqueValues": 10,
+        "uniqueTypes": 2
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-Trait6": {
+      "tables": [
+        "trait"
+      ],
+      "stats": {
+        "recordCount": 1,
+        "entryCount": 17,
+        "uniqueKeys": 34,
+        "uniqueValues": 68,
+        "uniqueTypes": 5
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-ui_stat6": {
+      "tables": [
+        "ui_stat"
+      ],
+      "stats": {
+        "recordCount": 3,
+        "entryCount": 82,
+        "uniqueKeys": 120,
+        "uniqueValues": 267,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-usability6": {
+      "tables": [
+        "usability"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 3,
+        "uniqueKeys": 29,
+        "uniqueValues": 24,
+        "uniqueTypes": 4
+      }
+    },
+    "pakchunk6-Windows_2_P-Nexus-Data-usability_prompt6": {
+      "tables": [
+        "usability_prompt"
+      ],
+      "stats": {
+        "recordCount": 2,
+        "entryCount": 48,
+        "uniqueKeys": 57,
+        "uniqueValues": 97,
+        "uniqueTypes": 1
+      }
+    },
+    "pakchunk6-Windows_3_P-Nexus-Data-GbxActorPart6": {
+      "tables": [
+        "GbxActorPart"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 859,
+        "uniqueKeys": 962,
+        "uniqueValues": 5787,
+        "uniqueTypes": 8
+      }
+    },
+    "pakchunk6-Windows_4_P-Nexus-Data-GbxActorPart6": {
+      "tables": [
+        "GbxActorPart"
+      ],
+      "stats": {
+        "recordCount": 4,
+        "entryCount": 859,
+        "uniqueKeys": 962,
+        "uniqueValues": 5787,
+        "uniqueTypes": 8
+      }
+    }
+  },
+  "distributions": {
+    "tables": [
+      {
+        "table": "gbxactor",
+        "fileCount": 7
+      },
+      {
+        "table": "attribute",
+        "fileCount": 6
+      },
+      {
+        "table": "cinematic_mode",
+        "fileCount": 6
+      },
+      {
+        "table": "damagedata",
+        "fileCount": 6
+      },
+      {
+        "table": "dialogevent",
+        "fileCount": 6
+      },
+      {
+        "table": "gbx_ue_data_table",
+        "fileCount": 6
+      },
+      {
+        "table": "impact_effect",
+        "fileCount": 6
+      },
+      {
+        "table": "inv",
+        "fileCount": 6
+      },
+      {
+        "table": "map",
+        "fileCount": 6
+      },
+      {
+        "table": "rewards",
+        "fileCount": 6
+      },
+      {
+        "table": "aihitreactions",
+        "fileCount": 5
+      },
+      {
+        "table": "camera_shake",
+        "fileCount": 5
+      },
+      {
+        "table": "challenge",
+        "fileCount": 5
+      },
+      {
+        "table": "character_sound_tags",
+        "fileCount": 5
+      },
+      {
+        "table": "criteria_preset",
+        "fileCount": 5
+      },
+      {
+        "table": "damagesource",
+        "fileCount": 5
+      },
+      {
+        "table": "damagetype",
+        "fileCount": 5
+      },
+      {
+        "table": "damage_modifier",
+        "fileCount": 5
+      },
+      {
+        "table": "dialognametag",
+        "fileCount": 5
+      },
+      {
+        "table": "effect_collection",
+        "fileCount": 5
+      },
+      {
+        "table": "feedback",
+        "fileCount": 5
+      },
+      {
+        "table": "GbxActorPart",
+        "fileCount": 5
+      },
+      {
+        "table": "gbx_discovery_location_type_def",
+        "fileCount": 5
+      },
+      {
+        "table": "gore",
+        "fileCount": 5
+      },
+      {
+        "table": "gore_region",
+        "fileCount": 5
+      },
+      {
+        "table": "healthtype",
+        "fileCount": 5
+      },
+      {
+        "table": "hit_region",
+        "fileCount": 5
+      },
+      {
+        "table": "impact_effect_collection",
+        "fileCount": 5
+      },
+      {
+        "table": "itempool",
+        "fileCount": 5
+      },
+      {
+        "table": "light_beam",
+        "fileCount": 5
+      },
+      {
+        "table": "light_projectile",
+        "fileCount": 5
+      },
+      {
+        "table": "rumble",
+        "fileCount": 5
+      },
+      {
+        "table": "singularity",
+        "fileCount": 5
+      },
+      {
+        "table": "skill",
+        "fileCount": 5
+      },
+      {
+        "table": "skill_state",
+        "fileCount": 5
+      },
+      {
+        "table": "spawn_pattern",
+        "fileCount": 5
+      },
+      {
+        "table": "stance",
+        "fileCount": 5
+      },
+      {
+        "table": "team",
+        "fileCount": 5
+      },
+      {
+        "table": "ui_stat",
+        "fileCount": 5
+      },
+      {
+        "table": "usability_prompt",
+        "fileCount": 5
+      },
+      {
+        "table": "audioprovider",
+        "fileCount": 5
+      },
+      {
+        "table": "achievement",
+        "fileCount": 4
+      },
+      {
+        "table": "character_sounds",
+        "fileCount": 4
+      },
+      {
+        "table": "dialogechopresentation",
+        "fileCount": 4
+      },
+      {
+        "table": "gbx_discovery_presentation_def",
+        "fileCount": 4
+      },
+      {
+        "table": "gbx_material_parameter",
+        "fileCount": 4
+      },
+      {
+        "table": "inv_stat",
+        "fileCount": 4
+      },
+      {
+        "table": "mission",
+        "fileCount": 4
+      },
+      {
+        "table": "navlink",
+        "fileCount": 4
+      },
+      {
+        "table": "PerchUser",
+        "fileCount": 4
+      },
+      {
+        "table": "rarity",
+        "fileCount": 4
+      },
+      {
+        "table": "se_severity_channel",
+        "fileCount": 4
+      },
+      {
+        "table": "shot_modifier",
+        "fileCount": 4
+      },
+      {
+        "table": "skill_token_stack",
+        "fileCount": 4
+      },
+      {
+        "table": "stamp_layout",
+        "fileCount": 4
+      },
+      {
+        "table": "taggedanim",
+        "fileCount": 4
+      },
+      {
+        "table": "uitooltipdata",
+        "fileCount": 4
+      },
+      {
+        "table": "ui_mission_reward_type",
+        "fileCount": 4
+      },
+      {
+        "table": "display_data",
+        "fileCount": 4
+      },
+      {
+        "table": "ainodeLeadsettings",
+        "fileCount": 3
+      },
+      {
+        "table": "crosshair",
+        "fileCount": 3
+      },
+      {
+        "table": "dialogquiettime",
+        "fileCount": 3
+      },
+      {
+        "table": "dialogstyle",
+        "fileCount": 3
+      },
+      {
+        "table": "inv_custom",
+        "fileCount": 3
+      },
+      {
+        "table": "inv_name_strategy",
+        "fileCount": 3
+      },
+      {
+        "table": "itempoollist",
+        "fileCount": 3
+      },
+      {
+        "table": "jump_goal",
+        "fileCount": 3
+      },
+      {
+        "table": "loot_config",
+        "fileCount": 3
+      },
+      {
+        "table": "manufacturer",
+        "fileCount": 3
+      },
+      {
+        "table": "melee",
+        "fileCount": 3
+      },
+      {
+        "table": "oak_echo_log_def",
+        "fileCount": 3
+      },
+      {
+        "table": "opportunistic_ambient_audio_config",
+        "fileCount": 3
+      },
+      {
+        "table": "perception",
+        "fileCount": 3
+      },
+      {
+        "table": "progress_graph",
+        "fileCount": 3
+      },
+      {
+        "table": "recoil",
+        "fileCount": 3
+      },
+      {
+        "table": "basicdef",
+        "fileCount": 3
+      },
+      {
+        "table": "resource",
+        "fileCount": 3
+      },
+      {
+        "table": "resourcepool",
+        "fileCount": 3
+      },
+      {
+        "table": "skill_event",
+        "fileCount": 3
+      },
+      {
+        "table": "sliding",
+        "fileCount": 3
+      },
+      {
+        "table": "station_type",
+        "fileCount": 3
+      },
+      {
+        "table": "ui_stat_group",
+        "fileCount": 3
+      },
+      {
+        "table": "usability",
+        "fileCount": 3
+      },
+      {
+        "table": "vending_machine",
+        "fileCount": 3
+      },
+      {
+        "table": "carryable_object_category",
+        "fileCount": 3
+      },
+      {
+        "table": "timeofdaycycle",
+        "fileCount": 3
+      },
+      {
+        "table": "firmware",
+        "fileCount": 3
+      },
+      {
+        "table": "inv_name_part",
+        "fileCount": 3
+      },
+      {
+        "table": "trait",
+        "fileCount": 3
+      },
+      {
+        "table": "aim_assist_parameters",
+        "fileCount": 2
+      },
+      {
+        "table": "ainodefollowsettings",
+        "fileCount": 2
+      },
+      {
+        "table": "capital",
+        "fileCount": 2
+      },
+      {
+        "table": "coordinated_effect_filter",
+        "fileCount": 2
+      },
+      {
+        "table": "criterion_preset",
+        "fileCount": 2
+      },
+      {
+        "table": "damage_filter",
+        "fileCount": 2
+      },
+      {
+        "table": "dialogparameter",
+        "fileCount": 2
+      },
+      {
+        "table": "effect_relevance",
+        "fileCount": 2
+      },
+      {
+        "table": "gbx_discovery_category_def",
+        "fileCount": 2
+      },
+      {
+        "table": "gbx_discovery_icon_size_def",
+        "fileCount": 2
+      },
+      {
+        "table": "gbx_discovery_in_world_indicator_def",
+        "fileCount": 2
+      },
+      {
+        "table": "gbx_discovery_viewable_map_behavior_def",
+        "fileCount": 2
+      },
+      {
+        "table": "gbx_stand_in_scene_def",
+        "fileCount": 2
+      },
+      {
+        "table": "hazard_interaction",
+        "fileCount": 2
+      },
+      {
+        "table": "hazard_interaction_state",
+        "fileCount": 2
+      },
+      {
+        "table": "hover_drive",
+        "fileCount": 2
+      },
+      {
+        "table": "inv_params",
+        "fileCount": 2
+      },
+      {
+        "table": "RoadConnector",
+        "fileCount": 2
+      },
+      {
+        "table": "objective",
+        "fileCount": 2
+      },
+      {
+        "table": "oak_echo_log_category_def",
+        "fileCount": 2
+      },
+      {
+        "table": "pingfeedbackdata",
+        "fileCount": 2
+      },
+      {
+        "table": "profile_defaults_display_data",
+        "fileCount": 2
+      },
+      {
+        "table": "progress_graph_group",
+        "fileCount": 2
+      },
+      {
+        "table": "puddle_hazard",
+        "fileCount": 2
+      },
+      {
+        "table": "radial_blur",
+        "fileCount": 2
+      },
+      {
+        "table": "radio_script",
+        "fileCount": 2
+      },
+      {
+        "table": "skill_action_exec_query",
+        "fileCount": 2
+      },
+      {
+        "table": "skill_effect",
+        "fileCount": 2
+      },
+      {
+        "table": "skill_mresource_group",
+        "fileCount": 2
+      },
+      {
+        "table": "skill_state_condition",
+        "fileCount": 2
+      },
+      {
+        "table": "skill_target_list",
+        "fileCount": 2
+      },
+      {
+        "table": "status_effect_pushevent",
+        "fileCount": 2
+      },
+      {
+        "table": "trait_pool",
+        "fileCount": 2
+      },
+      {
+        "table": "uiwidget",
+        "fileCount": 2
+      },
+      {
+        "table": "ui_challenge_list",
+        "fileCount": 2
+      },
+      {
+        "table": "wwise_soundbanks",
+        "fileCount": 2
+      },
+      {
+        "table": "soundbank",
+        "fileCount": 2
+      },
+      {
+        "table": "choice_option",
+        "fileCount": 2
+      },
+      {
+        "table": "animupdaterateparams",
+        "fileCount": 2
+      },
+      {
+        "table": "challenge_list",
+        "fileCount": 2
+      },
+      {
+        "table": "character_movement",
+        "fileCount": 2
+      },
+      {
+        "table": "closed_caption",
+        "fileCount": 2
+      },
+      {
+        "table": "dialogscript",
+        "fileCount": 2
+      },
+      {
+        "table": "dialoglineslot",
+        "fileCount": 2
+      },
+      {
+        "table": "firing_pattern",
+        "fileCount": 2
+      },
+      {
+        "table": "gbxmusic",
+        "fileCount": 2
+      },
+      {
+        "table": "gbxsymphonicambientaudio",
+        "fileCount": 2
+      },
+      {
+        "table": "gbx_discovery_location_meta_data",
+        "fileCount": 2
+      },
+      {
+        "table": "grapple",
+        "fileCount": 2
+      },
+      {
+        "table": "jump_goal_collection",
+        "fileCount": 2
+      },
+      {
+        "table": "managed_actor",
+        "fileCount": 2
+      },
+      {
+        "table": "mantle",
+        "fileCount": 2
+      },
+      {
+        "table": "levelsequenceactor",
+        "fileCount": 2
+      },
+      {
+        "table": "missionset",
+        "fileCount": 2
+      },
+      {
+        "table": "vehicle_interaction",
+        "fileCount": 2
+      },
+      {
+        "table": "activity",
+        "fileCount": 2
+      },
+      {
+        "table": "developersettings",
+        "fileCount": 2
+      },
+      {
+        "table": "inv_comp",
+        "fileCount": 2
+      },
+      {
+        "table": "globals",
+        "fileCount": 2
+      },
+      {
+        "table": "impact_response",
+        "fileCount": 2
+      },
+      {
+        "table": "stamp_context",
+        "fileCount": 2
+      },
+      {
+        "table": "camera_mode",
+        "fileCount": 1
+      },
+      {
+        "table": "camera_transition",
+        "fileCount": 1
+      },
+      {
+        "table": "character_info",
+        "fileCount": 1
+      },
+      {
+        "table": "damage_affinity",
+        "fileCount": 1
+      },
+      {
+        "table": "echo_location_data",
+        "fileCount": 1
+      },
+      {
+        "table": "equipment",
+        "fileCount": 1
+      },
+      {
+        "table": "ffyldata",
+        "fileCount": 1
+      },
+      {
+        "table": "first_person",
+        "fileCount": 1
+      },
+      {
+        "table": "game_region",
+        "fileCount": 1
+      },
+      {
+        "table": "gbx_discovery_discoverer_def",
+        "fileCount": 1
+      },
+      {
+        "table": "gbx_discovery_region_map_def",
+        "fileCount": 1
+      },
+      {
+        "table": "gbx_discovery_viewable_map_def",
+        "fileCount": 1
+      },
+      {
+        "table": "gbx_scene_viewer_def",
+        "fileCount": 1
+      },
+      {
+        "table": "inventory_container",
+        "fileCount": 1
+      },
+      {
+        "table": "loadingscreen_data",
+        "fileCount": 1
+      },
+      {
+        "table": "luck_category",
+        "fileCount": 1
+      },
+      {
+        "table": "materialevents",
+        "fileCount": 1
+      },
+      {
+        "table": "oak_discovery_priority_group_def",
+        "fileCount": 1
+      },
+      {
+        "table": "oak_ui_news_images_def",
+        "fileCount": 1
+      },
+      {
+        "table": "player_bot",
+        "fileCount": 1
+      },
+      {
+        "table": "progress_point_pool",
+        "fileCount": 1
+      },
+      {
+        "table": "se_tick_group",
+        "fileCount": 1
+      },
+      {
+        "table": "skill_alias",
+        "fileCount": 1
+      },
+      {
+        "table": "skill_component_identifier",
+        "fileCount": 1
+      },
+      {
+        "table": "skill_condition_ref",
+        "fileCount": 1
+      },
+      {
+        "table": "skill_res_strategy",
+        "fileCount": 1
+      },
+      {
+        "table": "thumbnail_scene",
+        "fileCount": 1
+      },
+      {
+        "table": "trait_mission",
+        "fileCount": 1
+      },
+      {
+        "table": "trait_pool_list",
+        "fileCount": 1
+      },
+      {
+        "table": "uicomponent",
+        "fileCount": 1
+      },
+      {
+        "table": "uidialogbox",
+        "fileCount": 1
+      },
+      {
+        "table": "uiname_weightedlist",
+        "fileCount": 1
+      },
+      {
+        "table": "uipage",
+        "fileCount": 1
+      },
+      {
+        "table": "uistate",
+        "fileCount": 1
+      },
+      {
+        "table": "uiwidgetclass",
+        "fileCount": 1
+      },
+      {
+        "table": "ui_element_damage_effect",
+        "fileCount": 1
+      },
+      {
+        "table": "ui_mission_difficulty",
+        "fileCount": 1
+      },
+      {
+        "table": "ui_mission_reward_tier",
+        "fileCount": 1
+      },
+      {
+        "table": "wise_game_parameters",
+        "fileCount": 1
+      },
+      {
+        "table": "game_parameter",
+        "fileCount": 1
+      },
+      {
+        "table": "wwise_auxilary_busses",
+        "fileCount": 1
+      },
+      {
+        "table": "auxilary_bus",
+        "fileCount": 1
+      },
+      {
+        "table": "wwise_states",
+        "fileCount": 1
+      },
+      {
+        "table": "state",
+        "fileCount": 1
+      },
+      {
+        "table": "wwise_switches",
+        "fileCount": 1
+      },
+      {
+        "table": "switch",
+        "fileCount": 1
+      },
+      {
+        "table": "wwise_triggers",
+        "fileCount": 1
+      },
+      {
+        "table": "trigger",
+        "fileCount": 1
+      },
+      {
+        "table": "xp_progression",
+        "fileCount": 1
+      },
+      {
+        "table": "Carry",
+        "fileCount": 1
+      },
+      {
+        "table": "cinematic_player_anims",
+        "fileCount": 1
+      },
+      {
+        "table": "climbable_interact",
+        "fileCount": 1
+      },
+      {
+        "table": "CorpseArchetype",
+        "fileCount": 1
+      },
+      {
+        "table": "dash",
+        "fileCount": 1
+      },
+      {
+        "table": "DLCDef",
+        "fileCount": 1
+      },
+      {
+        "table": "gbx_swimming",
+        "fileCount": 1
+      },
+      {
+        "table": "ground_slam",
+        "fileCount": 1
+      },
+      {
+        "table": "landing",
+        "fileCount": 1
+      },
+      {
+        "table": "OrderRewind",
+        "fileCount": 1
+      },
+      {
+        "table": "progression",
+        "fileCount": 1
+      },
+      {
+        "table": "unlockable",
+        "fileCount": 1
+      },
+      {
+        "table": "entry",
+        "fileCount": 1
+      },
+      {
+        "table": "skilltrees_data",
+        "fileCount": 1
+      },
+      {
+        "table": "stance_user_data",
+        "fileCount": 1
+      },
+      {
+        "table": "weapon_manufacturer_mod",
+        "fileCount": 1
+      },
+      {
+        "table": "audio_event",
+        "fileCount": 1
+      },
+      {
+        "table": "event",
+        "fileCount": 1
+      },
+      {
+        "table": "usable_consumer",
+        "fileCount": 1
+      },
+      {
+        "table": "stat_collection",
+        "fileCount": 1
+      },
+      {
+        "table": "activityrequest",
+        "fileCount": 1
+      },
+      {
+        "table": "ActivityRequestSettingsdata",
+        "fileCount": 1
+      },
+      {
+        "table": "cinematic_player_exit",
+        "fileCount": 1
+      },
+      {
+        "table": "cine_grant_script",
+        "fileCount": 1
+      },
+      {
+        "table": "cine_grant_stage",
+        "fileCount": 1
+      },
+      {
+        "table": "collectible",
+        "fileCount": 1
+      },
+      {
+        "table": "critter",
+        "fileCount": 1
+      },
+      {
+        "table": "critterbiome",
+        "fileCount": 1
+      },
+      {
+        "table": "entitlement",
+        "fileCount": 1
+      },
+      {
+        "table": "formation",
+        "fileCount": 1
+      },
+      {
+        "table": "gbx_discovery_generator_def",
+        "fileCount": 1
+      },
+      {
+        "table": "gbx_discovery_viewable_map_meta_data",
+        "fileCount": 1
+      },
+      {
+        "table": "gbx_fly_to_actor_config_def",
+        "fileCount": 1
+      },
+      {
+        "table": "hover_drive_attr_set",
+        "fileCount": 1
+      },
+      {
+        "table": "ingredient_list",
+        "fileCount": 1
+      },
+      {
+        "table": "migrationevent",
+        "fileCount": 1
+      },
+      {
+        "table": "navfilteroverrides",
+        "fileCount": 1
+      },
+      {
+        "table": "poa_actor",
+        "fileCount": 1
+      },
+      {
+        "table": "preferredparts",
+        "fileCount": 1
+      },
+      {
+        "table": "progression_command_list",
+        "fileCount": 1
+      },
+      {
+        "table": "stamp_layout_group",
+        "fileCount": 1
+      },
+      {
+        "table": "stamp_map_initialization",
+        "fileCount": 1
+      },
+      {
+        "table": "status_effect_rule",
+        "fileCount": 1
+      },
+      {
+        "table": "town",
+        "fileCount": 1
+      },
+      {
+        "table": "tracker_location",
+        "fileCount": 1
+      },
+      {
+        "table": "ui_movement_type",
+        "fileCount": 1
+      },
+      {
+        "table": "waypoint",
+        "fileCount": 1
+      }
+    ],
+    "topTypes": [
+      {
+        "type": "",
+        "count": 1917523
+      },
+      {
+        "type": "Asset",
+        "count": 246616
+      },
+      {
+        "type": "attribute",
+        "count": 47508
+      },
+      {
+        "type": "gbx_ue_data_table",
+        "count": 31642
+      },
+      {
+        "type": "inv_aspect",
+        "count": 25822
+      },
+      {
+        "type": "audio_event",
+        "count": 21382
+      },
+      {
+        "type": "GbxActorPart",
+        "count": 17044
+      },
+      {
+        "type": "gbxactor",
+        "count": 16549
+      },
+      {
+        "type": "map",
+        "count": 11638
+      },
+      {
+        "type": "display_data",
+        "count": 9825
+      },
+      {
+        "type": "dialognametag",
+        "count": 9156
+      },
+      {
+        "type": "dialogscript",
+        "count": 6978
+      },
+      {
+        "type": "progress_graph",
+        "count": 6611
+      },
+      {
+        "type": "rewards",
+        "count": 5632
+      },
+      {
+        "type": "ui_stat",
+        "count": 5060
+      },
+      {
+        "type": "inv",
+        "count": 4720
+      },
+      {
+        "type": "audioprovider",
+        "count": 4286
+      },
+      {
+        "type": "damagesource",
+        "count": 4240
+      },
+      {
+        "type": "stance",
+        "count": 4099
+      },
+      {
+        "type": "dialogparameter",
+        "count": 4078
+      },
+      {
+        "type": "impact_effect",
+        "count": 3973
+      },
+      {
+        "type": "challenge",
+        "count": 3398
+      },
+      {
+        "type": "gbx_discovery_location_type_def",
+        "count": 2797
+      },
+      {
+        "type": "character_sound_tags",
+        "count": 2634
+      },
+      {
+        "type": "inv_params",
+        "count": 2564
+      },
+      {
+        "type": "damagetype",
+        "count": 2457
+      },
+      {
+        "type": "ui_stat_group",
+        "count": 2407
+      },
+      {
+        "type": "effect_collection",
+        "count": 2374
+      },
+      {
+        "type": "impact_response",
+        "count": 2134
+      },
+      {
+        "type": "itempool",
+        "count": 2078
+      },
+      {
+        "type": "unlockable",
+        "count": 1735
+      },
+      {
+        "type": "wise_game_parameters",
+        "count": 1566
+      },
+      {
+        "type": "uitooltipdata",
+        "count": 1537
+      },
+      {
+        "type": "gamemode",
+        "count": 1481
+      },
+      {
+        "type": "ui_mission_reward_tier",
+        "count": 1472
+      },
+      {
+        "type": "rumble",
+        "count": 1471
+      },
+      {
+        "type": "stamp_layout",
+        "count": 1459
+      },
+      {
+        "type": "light_projectile",
+        "count": 1418
+      },
+      {
+        "type": "feedback",
+        "count": 1348
+      },
+      {
+        "type": "damagedata",
+        "count": 1344
+      },
+      {
+        "type": "skill_state",
+        "count": 1297
+      },
+      {
+        "type": "station_type",
+        "count": 1260
+      },
+      {
+        "type": "dialogevent",
+        "count": 1257
+      },
+      {
+        "type": "game_region",
+        "count": 1153
+      },
+      {
+        "type": "skill",
+        "count": 1124
+      },
+      {
+        "type": "team",
+        "count": 1109
+      },
+      {
+        "type": "mission",
+        "count": 1098
+      },
+      {
+        "type": "inv_name_part",
+        "count": 1079
+      },
+      {
+        "type": "gore_region",
+        "count": 1034
+      },
+      {
+        "type": "impact_effect_collection",
+        "count": 885
+      },
+      {
+        "type": "camera_shake",
+        "count": 828
+      },
+      {
+        "type": "healthtype",
+        "count": 816
+      },
+      {
+        "type": "gbx_discovery_presentation_def",
+        "count": 771
+      },
+      {
+        "type": "usability_prompt",
+        "count": 738
+      },
+      {
+        "type": "gbx_material_parameter",
+        "count": 707
+      },
+      {
+        "type": "activity",
+        "count": 691
+      },
+      {
+        "type": "critter",
+        "count": 678
+      },
+      {
+        "type": "wwise_switches",
+        "count": 616
+      },
+      {
+        "type": "criterion_preset",
+        "count": 515
+      },
+      {
+        "type": "capital",
+        "count": 488
+      },
+      {
+        "type": "aihitreactions",
+        "count": 465
+      },
+      {
+        "type": "oak_echo_log_category_def",
+        "count": 452
+      },
+      {
+        "type": "skill_token_stack",
+        "count": 446
+      },
+      {
+        "type": "dialogechopresentation",
+        "count": 444
+      },
+      {
+        "type": "missionset",
+        "count": 430
+      },
+      {
+        "type": "spawn_pattern",
+        "count": 398
+      },
+      {
+        "type": "pingfeedbackdata",
+        "count": 390
+      },
+      {
+        "type": "manufacturer",
+        "count": 389
+      },
+      {
+        "type": "criteria_preset",
+        "count": 354
+      },
+      {
+        "type": "resource",
+        "count": 348
+      },
+      {
+        "type": "resourcepool",
+        "count": 348
+      },
+      {
+        "type": "effect_relevance",
+        "count": 346
+      },
+      {
+        "type": "ui_mission_difficulty",
+        "count": 344
+      },
+      {
+        "type": "damage_modifier",
+        "count": 335
+      },
+      {
+        "type": "taggedanim",
+        "count": 324
+      },
+      {
+        "type": "navlink",
+        "count": 323
+      },
+      {
+        "type": "gore",
+        "count": 300
+      },
+      {
+        "type": "uiwidgetclass",
+        "count": 289
+      },
+      {
+        "type": "rarity",
+        "count": 284
+      },
+      {
+        "type": "uiwidget",
+        "count": 270
+      },
+      {
+        "type": "uiview",
+        "count": 260
+      },
+      {
+        "type": "character_sounds",
+        "count": 254
+      },
+      {
+        "type": "firmware",
+        "count": 240
+      },
+      {
+        "type": "recoil",
+        "count": 236
+      },
+      {
+        "type": "itempoollist",
+        "count": 230
+      },
+      {
+        "type": "dialogstyle",
+        "count": 221
+      },
+      {
+        "type": "inv_custom",
+        "count": 214
+      },
+      {
+        "type": "camera_behavior",
+        "count": 208
+      },
+      {
+        "type": "hover_drive_attr_set",
+        "count": 200
+      },
+      {
+        "type": "dialogquiettime",
+        "count": 180
+      },
+      {
+        "type": "inv_stat",
+        "count": 160
+      },
+      {
+        "type": "weapon_manufacturer_mod",
+        "count": 159
+      },
+      {
+        "type": "PerchUser",
+        "count": 148
+      },
+      {
+        "type": "usability",
+        "count": 146
+      },
+      {
+        "type": "gbx_discovery_icon_size_def",
+        "count": 145
+      },
+      {
+        "type": "crosshair",
+        "count": 144
+      },
+      {
+        "type": "gbx_discovery_in_world_indicator_def",
+        "count": 140
+      },
+      {
+        "type": "puddle_hazard",
+        "count": 119
+      },
+      {
+        "type": "skill_condition_ref",
+        "count": 110
+      },
+      {
+        "type": "globals",
+        "count": 104
+      },
+      {
+        "type": "skill_state_condition",
+        "count": 102
+      },
+      {
+        "type": "skill_effect",
+        "count": 98
+      },
+      {
+        "type": "loot_config",
+        "count": 90
+      },
+      {
+        "type": "oak_discovery_priority_group_def",
+        "count": 85
+      },
+      {
+        "type": "formation",
+        "count": 73
+      },
+      {
+        "type": "achievement",
+        "count": 72
+      },
+      {
+        "type": "inv_name_strategy",
+        "count": 72
+      },
+      {
+        "type": "migrationevent",
+        "count": 71
+      },
+      {
+        "type": "firing_pattern",
+        "count": 70
+      },
+      {
+        "type": "oak_echo_log_def",
+        "count": 68
+      },
+      {
+        "type": "trait",
+        "count": 66
+      },
+      {
+        "type": "ActivityRequestSettingsdata",
+        "count": 66
+      },
+      {
+        "type": "stamp_layout_group",
+        "count": 66
+      },
+      {
+        "type": "uistate",
+        "count": 65
+      },
+      {
+        "type": "basicdef",
+        "count": 63
+      },
+      {
+        "type": "perception",
+        "count": 62
+      },
+      {
+        "type": "light_beam",
+        "count": 62
+      },
+      {
+        "type": "progress_point_pool",
+        "count": 42
+      },
+      {
+        "type": "wwise_soundbanks",
+        "count": 40
+      },
+      {
+        "type": "gbx_discovery_category_def",
+        "count": 39
+      },
+      {
+        "type": "skill_alias",
+        "count": 35
+      },
+      {
+        "type": "puppet",
+        "count": 34
+      },
+      {
+        "type": "damage_filter",
+        "count": 32
+      },
+      {
+        "type": "aim_assist_parameters",
+        "count": 30
+      },
+      {
+        "type": "ingredient_list",
+        "count": 23
+      },
+      {
+        "type": "recipe",
+        "count": 23
+      },
+      {
+        "type": "skill_target_list",
+        "count": 21
+      },
+      {
+        "type": "melee",
+        "count": 21
+      },
+      {
+        "type": "wwise_auxilary_busses",
+        "count": 21
+      },
+      {
+        "type": "singularity",
+        "count": 21
+      },
+      {
+        "type": "jump_goal",
+        "count": 20
+      },
+      {
+        "type": "defselector",
+        "count": 18
+      },
+      {
+        "type": "ui_mission_reward_type",
+        "count": 18
+      },
+      {
+        "type": "trait_mission",
+        "count": 17
+      },
+      {
+        "type": "progress_graph_group",
+        "count": 17
+      },
+      {
+        "type": "carryable_object_category",
+        "count": 16
+      },
+      {
+        "type": "radial_blur",
+        "count": 15
+      },
+      {
+        "type": "gbx_stand_in_scene_def",
+        "count": 15
+      },
+      {
+        "type": "vending_machine",
+        "count": 14
+      },
+      {
+        "type": "hit_region",
+        "count": 14
+      },
+      {
+        "type": "loadingscreen_data",
+        "count": 13
+      },
+      {
+        "type": "hazard_interaction_state",
+        "count": 13
+      },
+      {
+        "type": "gbx_swimming",
+        "count": 13
+      },
+      {
+        "type": "skill_state_machine",
+        "count": 12
+      },
+      {
+        "type": "character_movement",
+        "count": 12
+      },
+      {
+        "type": "gbxmusic",
+        "count": 12
+      },
+      {
+        "type": "climbable_interact",
+        "count": 11
+      },
+      {
+        "type": "hazard_interaction",
+        "count": 9
+      },
+      {
+        "type": "progression_command_list",
+        "count": 9
+      },
+      {
+        "type": "skill_component_identifier",
+        "count": 8
+      },
+      {
+        "type": "cinematic_mode",
+        "count": 8
+      },
+      {
+        "type": "OrderRewind",
+        "count": 8
+      },
+      {
+        "type": "progression",
+        "count": 8
+      },
+      {
+        "type": "input_context",
+        "count": 8
+      },
+      {
+        "type": "managed_actor",
+        "count": 8
+      },
+      {
+        "type": "DLCDef",
+        "count": 8
+      },
+      {
+        "type": "specializations_data",
+        "count": 8
+      },
+      {
+        "type": "camera_mode",
+        "count": 6
+      },
+      {
+        "type": "trait_pool",
+        "count": 6
+      },
+      {
+        "type": "vehicle_interaction",
+        "count": 6
+      },
+      {
+        "type": "landing",
+        "count": 5
+      },
+      {
+        "type": "avatar_form",
+        "count": 4
+      },
+      {
+        "type": "gbx_discovery_viewable_map_behavior_def",
+        "count": 4
+      },
+      {
+        "type": "skilltrees_data",
+        "count": 4
+      },
+      {
+        "type": "camera_transition",
+        "count": 4
+      },
+      {
+        "type": "materialevents",
+        "count": 3
+      },
+      {
+        "type": "shot_modifier",
+        "count": 3
+      },
+      {
+        "type": "skill_mresource_group",
+        "count": 3
+      },
+      {
+        "type": "ground_slam",
+        "count": 3
+      },
+      {
+        "type": "town",
+        "count": 3
+      },
+      {
+        "type": "xp_progression",
+        "count": 2
+      },
+      {
+        "type": "rotation",
+        "count": 2
+      },
+      {
+        "type": "gbx_discovery_region_map_def",
+        "count": 2
+      },
+      {
+        "type": "se_severity_channel",
+        "count": 2
+      },
+      {
+        "type": "grapple",
+        "count": 2
+      },
+      {
+        "type": "jump_goal_collection",
+        "count": 2
+      },
+      {
+        "type": "mantle",
+        "count": 2
+      },
+      {
+        "type": "usable_consumer",
+        "count": 2
+      },
+      {
+        "type": "luck_category",
+        "count": 2
+      },
+      {
+        "type": "se_tick_group",
+        "count": 2
+      },
+      {
+        "type": "dash",
+        "count": 1
+      },
+      {
+        "type": "Carry",
+        "count": 1
+      },
+      {
+        "type": "sliding",
+        "count": 1
+      },
+      {
+        "type": "opportunistic_ambient_audio_config",
+        "count": 1
+      },
+      {
+        "type": "navfilteroverrides",
+        "count": 1
+      }
+    ]
+  }
+}
